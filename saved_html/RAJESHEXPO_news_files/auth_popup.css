@@ -1,0 +1,8 @@
+#LoginModal.modal {z-index: 9999999 !important;}
+#LoginModal.modal .modal-dialog {width: 320px; height: 642px;}
+#LoginModal.modal .modal-content { width: 320px; height: 642px; border-radius: 10px;}
+#LoginModal button.close { position: absolute; right:15px; top:15px;}
+#LoginModal.modal .modal-dialog {position: absolute;transform: translate(-50%, -50%) !important;left: 50%;top: 50%;} 
+@media all and (max-width:979px){
+    #LoginModal.modal .modal-dialog {width: 320px;height: 642px;transform: translate(-50%, -50%) !important;left: 50%;top: 50%; margin: 0px;} 
+}

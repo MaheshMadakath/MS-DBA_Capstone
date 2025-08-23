@@ -1,0 +1,16 @@
+NEWS ANALYSIS SUMMARY FOR NESTLEIND.NS
+==================================================
+Timestamp: 20250817_162426
+Total news scraped: 6
+Relevant news found: 3
+Relevance rate: 50.0%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 6 articles
+
+RELEVANT NEWS SAMPLES:
+1. Nestle India allots 96.41 cr equity shares under bonus issue - Business Standard...
+2. Nestle India Share Price Highlights Nestle India Stock Price History - The Economic Times...
+3. Nestlé India Limited - Nestle...
+
+IRRELEVANT NEWS SAMPLES:

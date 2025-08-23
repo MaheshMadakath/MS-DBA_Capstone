@@ -1,0 +1,11 @@
+symbol,total_news,relevant_news,relevance_rate,top_source,top_rejection_reason,avg_sentiment,sentiment_range
+HCLTECH.NS,11,11,100.0,GoogleNewsRSS,None,0.22456239553210067,0.08 to 0.74
+HDFCBANK.NS,30,30,100.0,GoogleNewsRSS,None,0.04610411873876499,-0.82 to 0.74
+ICICIBANK.NS,58,56,96.55172413793103,GoogleNewsRSS,Other relevance criteria not met,-0.023301940873643,-0.73 to 0.61
+INFY.NS,33,29,87.87878787878788,GoogleNewsRSS,Other relevance criteria not met,0.12923132934818204,-0.58 to 0.83
+KOTAKBANK.NS,8,8,100.0,GoogleNewsRSS,None,0.030995082909899115,-0.08 to 0.15
+ONGC.NS,24,23,95.83333333333334,GoogleNewsRSS,Other relevance criteria not met,-0.04319741695728149,-0.81 to 0.60
+RELIANCE.NS,23,21,91.30434782608695,GoogleNewsRSS,Other relevance criteria not met,-0.012084226261779152,-0.72 to 0.29
+SBIN.NS,47,46,97.87234042553192,GoogleNewsRSS,Other relevance criteria not met,0.18180834731559253,-0.69 to 0.84
+TCS.NS,14,13,92.85714285714286,GoogleNewsRSS,Other relevance criteria not met,0.23806107461252882,-0.06 to 0.79
+WIPRO.NS,12,10,83.33333333333334,GoogleNewsRSS,Other relevance criteria not met,0.32765223805619703,0.03 to 0.83

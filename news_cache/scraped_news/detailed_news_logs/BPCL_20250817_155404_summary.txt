@@ -1,0 +1,19 @@
+NEWS ANALYSIS SUMMARY FOR BPCL.NS
+==================================================
+Timestamp: 20250817_155404
+Total news scraped: 39
+Relevant news found: 21
+Relevance rate: 53.8%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 37 articles
+  Financial Express: 2 articles
+
+RELEVANT NEWS SAMPLES:
+1. BPCL buys 10 mn barrels of US crude oil through five-month tender - Business Standard...
+2. Q1 Results Today BPCL, IRCTC, United Spirits, Muthoot Finance, 500 companies to declare earnings on ...
+3. BPCL Q1 Results Maharatna PSU firm posts 141 YoY jump in Q1 profit to 6,839 crore revenue growth fla...
+4. Q1 results today BPCL, IRCTC, Godrej, Muthoot Finance among 642 on Aug 13 - Business Standard...
+5. Bharat Petroleum Corporation Ltd gains for third straight session - Business Standard...
+
+IRRELEVANT NEWS SAMPLES:

@@ -1,0 +1,19 @@
+NEWS ANALYSIS SUMMARY FOR KALYANKJIL.NS
+==================================================
+Timestamp: 20250817_163008
+Total news scraped: 38
+Relevant news found: 34
+Relevance rate: 89.5%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 38 articles
+
+RELEVANT NEWS SAMPLES:
+1. Kalyan Jewellers share price jumps 6 following relief rally on Dalal Street. More upside possible? -...
+2. Kalyan Jewellers India Limited - AnalystsInstitutional Investor MeetCon. Call Updates - Business Sta...
+3. Kalyan Jewellers India Limited SEC322025-2026 August 11, 2025 1. National Stock Exchange of India Lt...
+4. Kalyan Jewellers, Bharti Airtel among 10 FO stocks that saw a high increase in futures open interest...
+5. Kalyan Jewellers India - PG Electroplast, AU Small Finance among 10 stocks that dropped below VWAP o...
+
+IRRELEVANT NEWS SAMPLES:
+1. Kalyan Jewellers India Limited SEC332025-2026 August 11, 2025 1. National Stock Exchange of India Lt...

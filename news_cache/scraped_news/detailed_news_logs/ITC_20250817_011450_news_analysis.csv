@@ -1,0 +1,116 @@
+timestamp,symbol,date,headline,source,url,search_term,is_relevant,relevance_reason,combined_sentiment,sentiment_label,event_tag,textblob_polarity,vader_compound,finbert_score
+20250817_011450,ITC.NS,2025-08-15,ITC Share Price Highlights ITC Stock Price History - The Economic Times,GoogleNewsRSS,https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVFNtS1JldDlrMFAyMTF1QVU5VXlEdEhtNFVXbFhWbWxoZUVRTTllWE9wa0x1MFVCeERvZjVTcmUzRFNIVHNMVDlEOTlpM3c0UXRscUItVUM3dWRuMllBSC04V2gtU1gtbFA5bkxOQ09GMWFDTHRDaVAzT0dUZVktOTVwaHhreGp2N2ZtVERpbXpPQ3ZZZHNHd0FZUk9zazNnM1VOX3VRRWdvYzB5bF9HQnpxUnZOMHpiaUpQRkZaQTkyb0NOZFdxYk82YUU3YVFmZ3FIaVA3aC1taTjSAeABQVVfeXFMTzRHN3F5bVItY05pTXhOMzRZdlhsOGNxNTdDdlRFbWtRYTBDUzc3ZnBTUXIzN0FiV2xVYVVMWjZfZzR2YTZIWUltdU9VeEVYejBUQ0tPZUUzOVI3S2M3MlhXR0Q3LXRsaVJJS095QVgyMHRnR09kOTNoSzY2ZnhPcG9NVjRnYktlUzMtWk1EcHpjVl9lSTRjZjJkNHhERnJEc21BNVlvT1R6NDgxOEhOb3dWbzMzR3BwR1ktY2RWSHRrUTF1MGFkdVNlLWpwNzRDQTU4Mi1Rcy0xZFNYOUdpOHE?oc=5,ITC Limited,True,Contains stock name: ITC,0.10401246770334546,positive,general,0.2,0.296,2.0779505575774238e-05
+20250817_011450,ITC.NS,2025-08-11,British American Tobacco awaiting RBI approval to check out of ITC Hotels - The Economic Times,GoogleNewsRSS,https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR1AydklVbF9URkgwaTZzRWZIcVdzcXljX3VCb3NiTG1yaVk0TXdlMW9yRE9JQzZrVzdnLTNRS2p4eGN3ZWkwdkJUR01lM1RSTnRMUXByNUo2LWdZbXVlakM4UE5PN3Z5UEtqdWpYMmdtWnY1ZzUtY0VYNUFFNXdzWGQ5Qy1XWnN5RGZfT3pHa1hzbDQ0dXRQOFRIQWpySkY3STBSQ3JuZ2dJSEtVVm95bE9CYnB0SGgzSEhiLXlZREFQUldoWElOZ0R4dGlsZS1hLXB4N1h3cXJCRERrcnFQd01OemQ1MlRjbDgxLUN6b9IB9AFBVV95cUxNN2dsSmVUUXBMSERVNmdDaXdwQTZmbnFHeFNKQndiNms2U3BBUlhkWFhGOEI3MEowSllWWlQyaG5HU1hpd1J6TmE3T0pqalM3MmV3dWVnNWQ5eEd6TDV0ZlZuZGczenR3TFZqY2QyeGlqR2tDWlFWOUFWNmhHQ2d4cGJfeFZianNKWHI5ejZQaXBWNGFTWTFhakZoamZxQUhQM1dIdVhWdUM2clA2bFFEeUs2U1dJcXBoRENpYllXMVJ0ckJsUXlSWTc1RHBiRnlxRDU1bVkyVXRLNlp3WFdKZ1VEajhNMUFNWE5uWWdIQXpDSzhN?oc=5,ITC Limited,True,Contains stock name: ITC,0.1290823897051858,positive,macro_regulatory,0.06666666666666667,0.4767,-0.00015435049135703593
+20250817_011450,ITC.NS,2025-08-13,ITC Share Price Highlights ITC Stock Price History - The Economic Times,GoogleNewsRSS,https://news.google.com/rss/articles/CBMiswFBVV95cUxQcm9PeGRFU1JLMl84UlZ5NEpBb0NYRml0cjdScDJwTUxPbzAtUFNMMkRHM041VUpMSlFlMG9UenBNLTZlLV9xSl83UXpwb3hQY05ZdDU3MW1SUkpBdnhHdTBHTUl2eUJaX0FSWk1jZUpEbmlFbEFaV0JRaktzQVBROHdxem44ZmphVDEwdFBmQ251THo0cm9pUlZpajJRNlRNMjlkekFReC1ZcEM5Z2Q0WHRIb9IBuAFBVV95cUxQWHZPOXZ1MlRUNENnWFRoaEhKemMzVDI3S0dsUE1wYzUwaGVuSUpZNU9uNzRIdWJjY1Z5ZlNLZjg3dmZaLVVkdVoyUXRXS05rWmlOaHU3b2ZuZWc3UlpJWHFGUEM1bmZTcmxYcXE1SUhCNnM4Nk4ya2ZBWUJVZEJpZDhYU2tJU2x2S3ZESHVla3gtOG1nVWE3NkFSWHQ3Z2NZaEdhLXotWDRfMTVFaVloLXdfNXlhTGE2?oc=5,ITC Limited,True,Contains stock name: ITC,0.10401246770334546,positive,general,0.2,0.296,2.0779505575774238e-05
+20250817_011450,ITC.NS,2025-08-16,Geminis Glitch There are lessons to learn  Mint - Mint,GoogleNewsRSS,https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYlA1anZxc09sLW1QLURzVjd4RlJYRTdyRFJwZm01cW1PckVRd1JoaEFHVzk3V2h1QXlaQTgzWk1wYS1iUHA5ZGVhbGZUZnZNSFA5SUxuMWtfY0JvYUtwWjUxQjl6Q09qajZVY3Z4VndMeTFwZ1RnbTBFUF96Rng2RDdpWVZnRWZTMTBpRnRMZ1FuQzNnQ3NtcXpTMUdqeERRS3BHUUczMUlGZFpua052R1Z4bEpPYm56VmFna1FSSGRwcjZjbkZ3QTl4X3FYZ0xjUllJM2VLYWhTdzR6Sjd4Umxn0gHnAUFVX3lxTE5vOUtycFhJUURtd0Flb1BmZnNlTnQ0aUVBSGlFTDVWRTFudTluRjZkV2ZjOFA2QkJrajl2alNrMU42MW5LT1hVYWRydEEtX3p0azZlWWVtSFdCV1dQUExPaF9lV01ybXdzY0R3V0JKZzBvUmFTM1VNRWo5Smk5ajlYSGJBcWF2NGN6TGRIdWVNT1RQdDkza0phOWR4SkZOaUJ2Wm51N0hwSXZTNmpwbHRQSHhSZnlVMExyZk51RnpPa1A2SF9yeGFja2VwS2s3dll4bnBILWFrdkxkbXJHbWwzZEJMamRvSQ?oc=5,ITC Limited,True,Contains stock name: ITC,0.00014740016777068377,neutral,general,0.0,0.0,0.00024566694628447294
+20250817_011450,ITC.NS,2025-08-10,"Urban demand drives FMCG Q1 gains Is it sustainable?  FMCG sector  HUL, Dabur, ITC  Stock market - Business Standard",GoogleNewsRSS,https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWjFJS21rd09fbFpXdm5TbUNPTGtyaTIwLXU2ZlFqWHFzanpGeTYtYVlZUW5EZTZyN2IwdE96QUFVWW1jWEFzYWN2M0VSQXppci1RQjdpYk9XeE9BbWVvRm5rdmpELW5ramJOTkhzbXhoU1Q2bWJmM08yYS1oZVpDWFd2bkZnazBZblpjd19uYkdBTGJ0YnI0dE9nOFgtUGVSMnhkSG03SHdGU0RFMGhSa3ZPbWVlYktyTWU5dEtPMy1rdjJ0NjdYaEd2czNWR2lWV3czRElWbXVUUk9pelN2c05ISUxPTFFDalVwLTl3?oc=5,ITC,True,Contains stock name: ITC,0.654806315612793,positive,earnings,0.0,0.2263,0.9970521926879883
+20250817_011450,ITC.NS,2025-08-11,"ITC Hotels to Waaree Energies This analyst lists 3 stocks to buy to beat Trump tariff heat, pegs Nifty target at 26,200 - Mint",GoogleNewsRSS,https://news.google.com/rss/articles/CBMilAJBVV95cUxOVlAtX21oTWJjbGc0WUlSSkhvQVhYYlM3dWdwVm9SSnZRMHUwdnB3MFdhTkRBTm9UVkUzeUJaai01b0NPTmFtWWcybW9sZkJmRzZZMG5IakY5ZXF3UmRLMmJ3cnBrYjJ5OFpHZU1naW8zeEpPWEtPNVpsNnR3OGdTbDg5QjN0OU1LVGVvRDZLUUJVcFExRHkwMEIxLU9EM1pHZm81cGZfTkE0MGpHRE1jT3ctN1NuSDRRcnlYbDQ1Z2QtT1pldmNzM1RPVmgxUkozOUhLd3NzaGRfaDAxZllFV0d5LUNITVpTQjlBRXd0UC05U1A5U01CM3N3STRzTWNqMTRPNUx4eGJZbVQ5SG9uRkdzb0bSAZoCQVVfeXFMTnh0REloaWo1S1NKTUhISWRhWWFxS0ZHdWlhNzhqcE93NVZ2VFFrMFJhZlh2NHJTeXZpYUJLeGNLcVFLMkhDbDhQY0h2aDYwRVhqa2ktWkpOMlRFaVQ2TVlRVXNQNGZKNmlmdEdOZTJpQXBhQXV2UzQ2TjBsWVdmUW1lWGFncnd6NEM3b01QRUtjRXloaFdGQ0s4cHZPZWlvV0Rfd1lHSndjTzU2bUJTNUhGQnhidkhMMm9YQm5pc0ZkNjF3Yk1lRzdYSHpwZUVoa2s5TkdFMkxaSkVMSV81VG9VR2UwdTF3Z0xxRGxkNjZ3YmFRSGRvNUQza0VfNVRMQ1R3d25uRUY2cnFuNWdha0Zmb2JnSktnQ2lB?oc=5,ITC,True,Contains stock name: ITC,0.14060036188401281,positive,broker_rating,0.0,0.5574,0.0020839364733546972
+20250817_011450,ITC.NS,2025-08-11,"ITC Hotels sets 2030 goal of 220 properties, 5,300 keys in 5 years - Business Standard",GoogleNewsRSS,https://news.google.com/rss/articles/CBMixAFBVV95cUxQUThIMldXVGpDVDNjdXgtLWRCV1R3cTJWYnplMy1lM2NDaDBKREM4bVdSeC1uSllCRXlCbDFIU2ZVMzRYV3lJVXNUZERhejY5NExxTmtzQmlOOEN1dW1PU3VUVUJRcmdxMFNKNTROSmllSzMzbUUxWm54VkU0eXByMmxhOUFHcXF5ZHZYTFRCWkxNaXhGaXdETWlEWk5QMFd6RXZDUHoxUUNvV0dwZm5IcWlVZHpPVlJfdWt6M3VLWUNySXNH0gHKAUFVX3lxTE45cEFDU3VyLTZObjlaYkJfaXpMam1TVHo1Z1owdkh6X1l5d0VuV1AwSkpVbmNSV2tPV0NxcDM5MFZzeHU5bHRDMjI0enM2NXg5Mkt5SU4zMHU1bm9GQW52azE5TmRBQUtSOURDR2lmWVBURGRaS1I1am9YYWJhUGFLenNzN0kzRjJLbTh4OTAtZHlMdUVTOTBHMUxKdzZ4MFF5cFJjdmMzRGNoTVBsYzc2WnlTY0xCOXFCRHQ3clg2cllRUVhwa0RZRXc?oc=5,ITC,True,Contains stock name: ITC,8.687263175488624e-08,neutral,general,0.0,0.0,1.4478771959147707e-07
+20250817_011450,ITC.NS,2025-08-14,ITC shares fall 0.54 on Wednesday stock among top losers on Nifty 50 - Moneycontrol,GoogleNewsRSS,https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWGpSZ0xMYm5zMlhmRlV0cnNuWXA0T2dXdmRKcjdQTVY3TWdiYW1FVnQzV2VLQk1rU0ozTkRPajdSclNRWFdCNmVHMldaX1ZvS3NfanlHbENtb0J4d1Z6Vy1DbGU2YlEwNjlJd2JiXzJscTNIWG5Fb2dyaldXaEc4UEtuUTNHZmdXLVYyWlBOaGVWbnQ2MUVuNlZxY2cxNk1hajdvMEFXbWdQLWtDdFpha3oyQVZMQjlsRVJjc1RWOXZxVEp4cTZQZWVMQzhlY0NIaGNORVI1NThQSHo4Z2400gHkAUFVX3lxTFBSZ0ItY3R3MmQyX3J1UlpyNVRCUkpLZjh4cFR3eHk3Y1k3Ump1ZEtZTHUwY2tqYUxiVDI4VzhZZmJfZGRRbXZOdGY3YnYtS0lyRkVrODhWbUYwalV6NzQtSGJqOGZVdGlvSlBUNmNSZUpoU1I4Wl8zQk1FbWYyNlpMUUpEWTkxWkZPVGJNb2N1eEpSMWd4akpGcE41U1pZdDlUN0M5cXlTYzhXSGpoMVVISW5TOV9vdDlFWFdfUmJzOHhNVnZhVTZld29JVzBoQlBUbHZXX3psWks5OW9xOUphSFg5NA?oc=5,ITC,True,Contains stock name: ITC,-0.4956998769760131,negative,general,0.15,0.3182,-0.996249794960022
+20250817_011450,ITC.NS,2025-08-13,ITC shares trading nearly flat in todays trading session - Moneycontrol,GoogleNewsRSS,https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeG5nOERsWXR3Zm5iTXVlcVdoY0R4eUJwRWNNZUFpOTJqajF3dFBCTzd1YS1WX3YtNjZjSFZyMHphY05aOWFoUHhTS0FsQmE3Q2ZlNnIxaG8tSUFvcFhQOUg0TWJfdE5KSzlmcGtnd2RIeWsxUVB3YXF5c0N6bWlsTVVUTzQ5X1FPWWoyd0dtZFhkaUR2dkxQUXVBUjg4cng5N0p5OUQ5QjcwZmVIaXN6VkNaOTJ4ZXJBSmh6V0JoSjVXTm5FXzQxZEhxWWt2NHh30gHWAUFVX3lxTE9jaldCSXFoTmJCVGs5UFZxSkJ6NXJhYnZkWnFXcjJhNzJ5bXI5cXFQSHY3QTYtY0tiLXBNNnUwRGNuUVN5b0pNRWxxQTFyTWlCTnNJUTgxU08wYjYwYTBmWk1JQ1BydU9WaGhITzc2Smo1Wl9sNjc2OW4yQzZ1YTZXZllIRDVSbU9LcmM1NW9lblo4TXJxQVF6YXFIUjVvWVdIeG9oRk5yekVmSThoRkN0ZVA0TURYaE02ZFk1QVpxVGw5MEdnbG1qN19NTEZBT2R6YTc1VUE?oc=5,ITC,True,Contains stock name: ITC,0.07020194899383932,neutral,general,-0.025,0.296,-8.008501026779413e-05
+20250817_011450,ITC.NS,2025-08-15,SBI Mutual Fund HDFC Bank and ITC among top 10 stock holdings in July - The Economic Times,GoogleNewsRSS,https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd2hIX3lWcWIzNnk1c3gtMXplUW16NUJ5eDhXN3FHb1BHOUpxYXFUcnAtbjNTd3Q4bEMwbl9vSFo1U1EwcFl6R1hSRGtsekNCMUlEckhSMGYxcnlKNGVvSlN6VFJFanMxbllJSGNSWEFQWjhqOWU2R2YwMC16Z3NpWlgyQjBXWEpXaXI0eUlKNmFNQzJRYjNLem1oSUVWRk8tdkt4VWVzZm81dVJFLWctU2RDWnNET05JS0FKZ000R2M2M0JOTlZYdW9OXzJNVXkxQVHSAdIBQVVfeXFMT3doSF95VnFiMzZ5NXN4LTF6ZVFtejVCeXg4VzdxR29QRzlKcWFxVHJwLW4zU3d0OGxDMG5fb0haNVNRMHBZekdYUkRrbHpDQjFJRHJIUjBmMXJ5SjRlb0pTelRSRWpzMW5ZSUhjUlhBUFo4ajllNkdmMDAtemdzaVpYMkIwV1hKV2lyNHlJSjZhTUMyUWIzS3ptaElFVkZPLXZLeFVlc2ZvNXVSRS1nLVNkQ1pzRE9OSUtBSmdNNEdjNjNCTk5WWHVvTl8yTVV5MUFR?oc=5,ITC,True,Contains stock name: ITC,0.10313823117413558,positive,broker_rating,0.35,0.2023,0.00010538529022596776
+20250817_011450,ITC.NS,2025-08-13,ITC Share Price Highlights ITC Stock Price History - The Economic Times,GoogleNewsRSS,https://news.google.com/rss/articles/CBMiswFBVV95cUxQcm9PeGRFU1JLMl84UlZ5NEpBb0NYRml0cjdScDJwTUxPbzAtUFNMMkRHM041VUpMSlFlMG9UenBNLTZlLV9xSl83UXpwb3hQY05ZdDU3MW1SUkpBdnhHdTBHTUl2eUJaX0FSWk1jZUpEbmlFbEFaV0JRaktzQVBROHdxem44ZmphVDEwdFBmQ251THo0cm9pUlZpajJRNlRNMjlkekFReC1ZcEM5Z2Q0WHRIb9IBuAFBVV95cUxQWHZPOXZ1MlRUNENnWFRoaEhKemMzVDI3S0dsUE1wYzUwaGVuSUpZNU9uNzRIdWJjY1Z5ZlNLZjg3dmZaLVVkdVoyUXRXS05rWmlOaHU3b2ZuZWc3UlpJWHFGUEM1bmZTcmxYcXE1SUhCNnM4Nk4ya2ZBWUJVZEJpZDhYU2tJU2x2S3ZESHVla3gtOG1nVWE3NkFSWHQ3Z2NZaEdhLXotWDRfMTVFaVloLXdfNXlhTGE2?oc=5,ITC,True,Contains stock name: ITC,0.10401246770334546,positive,general,0.2,0.296,2.0779505575774238e-05
+20250817_011450,ITC.NS,2025-08-11,British American Tobacco awaiting RBI approval to check out of ITC Hotels - The Economic Times,GoogleNewsRSS,https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR1AydklVbF9URkgwaTZzRWZIcVdzcXljX3VCb3NiTG1yaVk0TXdlMW9yRE9JQzZrVzdnLTNRS2p4eGN3ZWkwdkJUR01lM1RSTnRMUXByNUo2LWdZbXVlakM4UE5PN3Z5UEtqdWpYMmdtWnY1ZzUtY0VYNUFFNXdzWGQ5Qy1XWnN5RGZfT3pHa1hzbDQ0dXRQOFRIQWpySkY3STBSQ3JuZ2dJSEtVVm95bE9CYnB0SGgzSEhiLXlZREFQUldoWElOZ0R4dGlsZS1hLXB4N1h3cXJCRERrcnFQd01OemQ1MlRjbDgxLUN6b9IB9AFBVV95cUxNN2dsSmVUUXBMSERVNmdDaXdwQTZmbnFHeFNKQndiNms2U3BBUlhkWFhGOEI3MEowSllWWlQyaG5HU1hpd1J6TmE3T0pqalM3MmV3dWVnNWQ5eEd6TDV0ZlZuZGczenR3TFZqY2QyeGlqR2tDWlFWOUFWNmhHQ2d4cGJfeFZianNKWHI5ejZQaXBWNGFTWTFhakZoamZxQUhQM1dIdVhWdUM2clA2bFFEeUs2U1dJcXBoRENpYllXMVJ0ckJsUXlSWTc1RHBiRnlxRDU1bVkyVXRLNlp3WFdKZ1VEajhNMUFNWE5uWWdIQXpDSzhN?oc=5,ITC,True,Contains stock name: ITC,0.1290823897051858,positive,macro_regulatory,0.06666666666666667,0.4767,-0.00015435049135703593
+20250817_011450,ITC.NS,2025-08-17,Bitcoin surges beyond $120k amid government order validating crypto as retirement asset,Financial Express,https://www.financialexpress.com/market/cryptocurrency/bitcoin-surges-beyond-120k-amid-government-order-validating-crypto-as-retirement-asset/3946053/,ITC Limited,True,Contains stock name: ITC,0.7498498927116394,positive,general,0.0,0.5994,0.9999998211860657
+20250817_011450,ITC.NS,2025-08-17,Bitcoin surges beyond $120k amid government order validating crypto as retirement asset,Financial Express,https://www.financialexpress.com/market/cryptocurrency/bitcoin-surges-beyond-120k-amid-government-order-validating-crypto-as-retirement-asset/3946053/,ITC Limited,True,Contains stock name: ITC,0.7498498927116394,positive,general,0.0,0.5994,0.9999998211860657
+20250817_011450,ITC.NS,2025-08-17,"21
+
+ 
+
+MITCON Credentia Trusteeship Serviccs Limited - Shrem lnfra Structure Private Limited 
+
+
+03-Mar-23",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,True,Contains stock name: ITC,-0.08670585929621219,neutral,general,-0.047619047619047616,-0.3182,-2.1670255591743626e-05
+20250817_011450,ITC.NS,2025-08-17,"35
+
+ 
+
+Mitcon Credentia Trusteeship Services Limited
+
+
+28-Jun-23",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,True,Contains stock name: ITC,-0.03650321972792901,neutral,general,-0.07142857142857142,-0.1027,-0.0001898900227388367
+20250817_011450,ITC.NS,2025-08-17,"36
+
+ 
+
+Mitcon Credentia Trusteeship Services Limited
+
+
+28-Jun-23",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.03645882846587504,neutral,general,-0.07142857142857142,-0.1027,-0.00011590458598220721
+20250817_011450,ITC.NS,2025-08-17,"37
+
+ 
+
+Mitcon Credentia Trusteeship Services Limited
+
+
+29-Jun-23",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.03647814938569375,neutral,general,-0.07142857142857142,-0.1027,-0.00014810611901339144
+20250817_011450,ITC.NS,2025-08-17,"40
+ 
+Mitcon Credentia Trusteeship Services Limited
+13-Sept-23",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.03642222336322468,neutral,general,-0.07142857142857142,-0.1027,-5.489608156494796e-05
+20250817_011450,ITC.NS,2025-08-17,"41
+ 
+Mitcon Credentia Trusteeship Services Limited
+13-Sept-23",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.03643347147564803,neutral,general,-0.07142857142857142,-0.1027,-7.364293560385704e-05
+20250817_011450,ITC.NS,2025-08-17,"42
+ 
+Mitcon Credentia Trusteeship Services Limited
+13-Sept-23",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.03643474266547876,neutral,general,-0.07142857142857142,-0.1027,-7.576158532174304e-05
+20250817_011450,ITC.NS,2025-08-17,"47
+ 
+
+Mitcon Credentia Trusteeship Services Limited-Alpha Alternatives Financial Services Private Limited.
+
+18-Oct-23",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,True,Contains stock name: ITC,-0.029297858864088942,neutral,general,-0.023809523809523808,-0.1027,-8.571715443395078e-05
+20250817_011450,ITC.NS,2025-08-17,"51
+ 
+Mitcon Credentia Trusteeship Services Limited-Alpha Alternatives Financial Services Private Limited.
+23-Oct-23",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.029276811865935032,neutral,general,-0.023809523809523808,-0.1027,-5.0638824177440256e-05
+20250817_011450,ITC.NS,2025-08-17,"57
+ 
+Mitcon Credentia Trusteeship Services Limited-Alpha Alternatives Financial Services Private Limited.
+13-Dec-23",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.029283464949190548,neutral,general,-0.023809523809523808,-0.1027,-6.172729626996443e-05
+20250817_011450,ITC.NS,2025-08-17,"90
+ 
+Mitcon Credentia Trusteeship Services Limited
+09-Feb-24",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.03656161198570792,neutral,general,-0.07142857142857142,-0.1027,-0.0002872104523703456
+20250817_011450,ITC.NS,2025-08-17,"91
+ 
+Mitcon Credentia Trusteeship Services Limited
+09-Feb-24",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.03665746645248894,neutral,general,-0.07142857142857142,-0.1027,-0.0004469678970053792
+20250817_011450,ITC.NS,2025-08-17,"100
+ 
+Mitcon Credentia Trusteeship Services Limited
+27-Feb-24",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.03641126029226164,neutral,general,-0.07142857142857142,-0.1027,-3.6624296626541764e-05
+20250817_011450,ITC.NS,2025-08-17,"117
+ 
+Mitcon Credentia Trusteeship Services Limited
+14-Mar-24",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.03643099508601174,neutral,general,-0.07142857142857142,-0.1027,-6.951561954338104e-05
+20250817_011450,ITC.NS,2025-08-17,"118
+ 
+Mitcon Credentia Trusteeship Services Limited
+15-Mar-24",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.036468528296718636,neutral,general,-0.07142857142857142,-0.1027,-0.00013207097072154284
+20250817_011450,ITC.NS,2025-08-17,"119
+ 
+Mitcon Credentia Trusteeship Services Limited
+15-Mar-24",NSE/BSE,https://www.nseindia.com/market-data/securities-available-for-trading,,False,Other relevance criteria not met,-0.03646177427264795,neutral,general,-0.07142857142857142,-0.1027,-0.00012081426393706352
+20250817_011450,ITC.NS,2025-08-17,"Premium
+
+
+
+
+
+Trump’s crypto cheer lifts Bitcoin, but core risks still loom
+
+
+
+3 min read
+.
+14 Aug 2025
+
+
+
+
+
+Share Via",LiveMint,https://www.livemint.com/money/trumps-crypto-cheer-lifts-bitcoin-but-core-risks-still-loom-11755157984537.html,ITC Limited,True,Contains stock name: ITC,0.5965545224189758,positive,general,0.0,-0.0129,0.9996325373649597

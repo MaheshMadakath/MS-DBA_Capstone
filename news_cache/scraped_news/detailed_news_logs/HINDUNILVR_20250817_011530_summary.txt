@@ -1,0 +1,18 @@
+NEWS ANALYSIS SUMMARY FOR HINDUNILVR.NS
+==================================================
+Timestamp: 20250817_011530
+Total news scraped: 15
+Relevant news found: 8
+Relevance rate: 53.3%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 15 articles
+
+RELEVANT NEWS SAMPLES:
+1. Hindustan Unilever gets shareholders nod for ice-cream business demerger - Business Standard...
+2. Stocks to buy for short term Eternal, HUL, Policybazaar among 5 shares experts suggest for the next ...
+3. Hindustan Unilever shares gain 0.59 in morning trade - Moneycontrol...
+4. Hindustan Unilever shares fall marginally over 2.6 lakh shares traded - Moneycontrol...
+5. HUL Share Price Highlights HUL Stock Price History - The Economic Times...
+
+IRRELEVANT NEWS SAMPLES:

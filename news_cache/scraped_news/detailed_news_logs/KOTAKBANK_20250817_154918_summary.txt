@@ -1,0 +1,30 @@
+NEWS ANALYSIS SUMMARY FOR KOTAKBANK.NS
+==================================================
+Timestamp: 20250817_154918
+Total news scraped: 5
+Relevant news found: 4
+Relevance rate: 80.0%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 4 articles
+  LiveMint: 1 articles
+
+RELEVANT NEWS SAMPLES:
+1. Kotak Mahindra Bank Option Chain Strike Price Date  NSE Option Chain Price Live - Mint...
+2. Jay Kotak criticises ICICI Banks Rs 50,000 MAB decision - financialexpress.com...
+3. Kotak Bank Share Price Highlights Kotak Bank Stock Price History - The Economic Times...
+4. Premium
+
+
+
+
+
+S&P Global upgrades credit ratings of SBI, HDFC Bank, among others
+
+
+
+2 min read
+.
+16 A...
+
+IRRELEVANT NEWS SAMPLES:

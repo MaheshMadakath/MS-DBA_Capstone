@@ -1,0 +1,18 @@
+NEWS ANALYSIS SUMMARY FOR MARUTI.NS
+==================================================
+Timestamp: 20250817_162505
+Total news scraped: 17
+Relevant news found: 8
+Relevance rate: 47.1%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 17 articles
+
+RELEVANT NEWS SAMPLES:
+1. Maruti Suzuki India bets on SUVs to offset small car sales slowdown - Business Standard...
+2. The New King of SUVs? How Mahindra is Stealing Marutis Crown - financialexpress.com...
+3. Maruti Suzuki to offer E20 upgrade kit for non-compliant cars but theres a catch - financialexpress....
+4. Maruti Suzuki Share Price Highlights Maruti Suzuki Stock Price History - The Economic Times...
+5. Maruti Suzuki introduces Grand Vitara Phantom BLAQ Edition Heres whats new - financialexpress.com...
+
+IRRELEVANT NEWS SAMPLES:

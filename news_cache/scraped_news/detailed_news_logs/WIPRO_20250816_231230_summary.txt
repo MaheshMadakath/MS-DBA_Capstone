@@ -1,0 +1,20 @@
+NEWS ANALYSIS SUMMARY FOR WIPRO.NS
+==================================================
+Timestamp: 20250816_231230
+Total news scraped: 12
+Relevant news found: 4
+Relevance rate: 33.3%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 10 articles
+  Financial Express: 2 articles
+
+RELEVANT NEWS SAMPLES:
+1. Markets kick start on a positive note ahead of Independence day holiday Nifty above 24,600 led by In...
+2. Wipro Share Price Highlights Wipro Stock Price History - The Economic Times...
+3. Wipro and Warburg amplify talks for Harman India arm - The Economic Times...
+4. Wipro partners with Google Cloud to launch agentic AI solutions - The Economic Times...
+
+IRRELEVANT NEWS SAMPLES:
+1. Markets kick start on a positive note ahead of Independence day holiday: Nifty above 24,600 led by I...
+2. Markets kick start on a positive note ahead of Independence day holiday: Nifty above 24,600 led by I...

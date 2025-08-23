@@ -1,0 +1,228 @@
+.CTR {text-align:center;}
+.MA5{margin:5px;}.MA10{margin:10px;}
+.MT2{margin-top:2px;}.MT3{margin-top:3px;}.MT5{margin-top:5px;}.MT7{margin-top:7px;}.MT10{margin-top:10px;}.MT12{margin-top:12px;}.MT15{margin-top:15px;}.MT20{margin-top:20px;} .MT25{margin-top:25px;}.MT30 { margin-top:30px; } .MT35 { margin-top:35px; }.MT40 { margin-top:40px; } .MT45 { margin-top:45px; } .MT92{ margin-top:97px;}
+.MR3{ margin-right:3px;}.MR5{margin-right:5px;}.MR10{margin-right:10px;}.MR12{margin-right:12px;}.MR15{margin-right:15px;}.MR18{margin-right:18px;}.MR20{margin-right:20px;}.MR25{ margin-right:25px;}
+.MB3{margin-bottom:3px;}.MB5{margin-bottom:5px;}.MB7{margin-bottom:5px;}.MB10{margin-bottom:10px;}.MB15{margin-bottom:15px;}.MB20{ margin-bottom:20px;}.MB35{ margin-bottom:35px;}
+.ML2{margin-left:2px;}.ML3{margin-left:3px;}.ML5{margin-left:5px;}.ML10{margin-left:10px;}.ML15{margin-left:15px;}.ML20{margin-left:20px;} .ML25{margin-left:25px;}.ML40{margin-left:40px;}.ML45{margin-left:45px;}.ML65{margin-left:65px;}
+.PA3{padding:3px;}.PA5{padding:5px;}.PA7{padding:7px;}.PA10{padding:10px;}.PA12{padding:12px;} .PA15 { padding:15px; } .PA20 { padding:20px; }
+.PT2{padding-top:2px;}.PT3{padding-top:3px;}.PT4{ padding-top:4px;}.PT5{padding-top:5px;}.PT7{padding-top:7px;}.PT8{padding-top:8px;}.PT10{padding-top:10px;}.PT12{padding-top:12px;}.PT15{padding-top:15px;}.PT20{padding-top:20px;}.PT25{padding-top:25px;}.PT30{padding-top:30px;}
+.PR3{padding-right:3px;}.PR5{padding-right:5px;}.PR7{padding-right:7px;}.PR10{padding-right:10px;}.PR15{padding-right:15px;}.PR20{padding-right:20px;}.PR25{padding-right:25px;}.PR30{padding-right:30px;}.PR40{padding-right:40px;} .PR35 { padding-right:35px; }
+.PB2{padding-bottom:2px;}.PB3{padding-bottom:3px;}.PB5{padding-bottom:5px;}.PB7{padding-bottom:7px;}.PB10{padding-bottom:10px;}.PB15{padding-bottom:15px;}.PB20{padding-bottom:20px;}.PB30{padding-bottom:30px;}.PB35{padding-bottom:35px;}
+.PL1{padding-left:1px;}.PL3{padding-left:3px;}.PL5{padding-left:5px;}.PL7{padding-left:7px;}.PL9{padding-left:9px;}.PL10{padding-left:10px;}.PL15{padding-left:15px;}.PL20{padding-left:20px;}.PL25{ padding-left:25px;}.PL30{padding-left:30px;}.PL40{ padding-left:40px;}.PL65{ padding-left:65px;}
+.PA8{padding:8px;} .MT2mns{margin-top:-2px;}.PL12{padding-left:12px;}.PR12{padding-right:12px;}
+.w560 { width:560px }
+.w360 { width:360px }
+.w190 { width:190px }
+.w140 { width:140px }
+.w225 { width:225px }
+.w590 { width:590px }
+.w460 { width:420px }
+.w170 { width:170px }
+.bgwhite{background-color:#fff;}
+sprite { background:url(https://images.moneycontrol.com/images/common/header/homepage-sprite.png?v=0.9) }
+.ic_blg, .ic_fb, .ic_forum, .ic_gplus, .ic_in, .ic_tweet, .ic_pint, .ic_tg, .ic_jionews { background:url(https://images.moneycontrol.com/images/common/header/homepage-sprite.png?v=0.9); width:33px; height:33px; display:inline-block; vertical-align: middle; }
+.ic_forum { background-position:-281px -2px }
+.ic_fb { background-position:-324px -2px }
+.ic_tweet { background-position:-366px -2px }
+.ic_gplus { background-position:-408px -2px }
+.ic_in { background-position:-451px -2px }
+.ic_pint { background-position:-493px -2px }
+.ic_blg { background-position:-535px -2px; }
+.ic_tg { background-position: -186px -516px; margin: 0 3px !important;}
+.ic_jionews { background-position: -111px -571px; margin: 0 0px !important; width: 35px; height: 35px;}
+.ic_instagram_mn { background:url(https://images.moneycontrol.com/images/common/header/homepage-sprite.png?v=0.9) -80px -510px no-repeat; width:33px; height:33px; display:inline-block; vertical-align: middle; }
+.ic_feed { background:url(https://images.moneycontrol.com/images/common/header/homepage-sprite.png?v=0.9) -48px -24px; width:13px; height:9px; display:inline-block }
+.gotop { background:url(https://images.moneycontrol.com/images/common/header/homepage-sprite.png?v=0.9) -450px -43px; width:101px; height:21px; position:absolute; top:-21px; right:0; display:inline-block }
+
+.txt14 { font:14px 'Lato', sans-serif }
+.ic_logofooter { background:url(https://images.moneycontrol.com/images/common/header/homepage-sprite.png?v=0.9) -413px -247px; width:150px; display:block; height:32px }
+footer { background:url(https://images.moneycontrol.com/images/common/header/footerbg.jpg); margin-top:20px }
+footer .main-wrapper { background:#d6e2e7; padding:20px 10px; width:1000px; margin:0 auto;}
+footer .fsoci { position:absolute; left:50%; margin:0 0 0 -115px }
+footer .fsoci a { margin:0 2px }
+footer .bgwhite { padding:15px }
+footer .footleft { width:600px }
+footer .footleft .flinkl1 { width:150px; margin:0 40px 0 0 }
+/* footer .footleft .flinkl2 { width:170px } */
+footer .footright { width:350px }
+footer .flinkl1 li a { padding:2px 5px; display:block; color:#282828; font:12px 'Lato', sans-serif }
+footer .flinkl1 li a:hover { background:#d6e2e7; text-decoration:none }
+footer .flinkl2 .flhd1 { font:700 12px 'Lato', sans-serif; color:#282828 }
+footer .flinkl2 li { margin-bottom:2px }
+footer .flinkl2 li a { padding:5px; font:12px 'Lato', sans-serif; color:#a0a0a0 }
+footer .flinkl2 li:hover { background:#d6e2e7 }
+footer .flS2 a { font:12px/12px 'Lato', sans-serif; color:#282828 }
+footer .ic_crn { background:url(https://images.moneycontrol.com/images/common/header/homepage-sprite.png?v=0.9) -6px -101px; width:120px; height:68px; display:inline-block }
+footer .ic_apGl, footer .ic_apple, footer .ic_apwin { background:url(https://images.moneycontrol.com/images/common/header/homepage-sprite.png?v=0.9) -4px -43px; width:128px; height:38px }
+footer .ic_apGl { background-position:-142px -43px }
+footer .ic_apwin { background-position:-278px -43px; width:155px }
+footer .flastLInk, footer .flastLInk a { color:#646464; font-size:14px }
+footer .flastLInk a:hover { text-decoration:underline }
+footer .copyright { font:12px 'Lato', sans-serif; color:#a0a0a0 }
+footer .ftCopy { padding:10px 20px }
+.flastLInk, .flastLInk a { color:#646464; font-size:14px }
+.flastLInk a:hover { text-decoration:underline }
+.copyright { font:12px 'Lato', sans-serif; color:#a0a0a0 }
+.ftCopy { padding:10px 20px 53px; }
+.copyright .copymmv { font-size:13px; color:#666; display:block; padding:0 0 10px }
+footer.ftinsde .main-wrapper { width:1260px }
+footer.ftinsde .footright { width:420px }
+footer.ftinsde .footleft { width:650px }
+footer_navigation_list.no_responsive{display:none;}
+.footerMobile{display:none;}
+
+/* feedback css start here */
+	#FeedBack_Popup .modal-content button.close {color: #555657; font-size: 30px; font-weight: normal; opacity: 1; margin: 5px 10px 0px 0px;}
+	#FeedBack_Popup .pc_modalheader { height: 65px; background: #F6F8FB;  }
+	#FeedBack_Popup .pc_modaltitle { color: #333333; font:700 18px/65px 'Lato', sans-serif; text-align: center;}
+	#FeedBack_Icon.pc_feedback { position: fixed; right:21px; bottom:0px; display: block; z-index:100;}
+	#FeedBack_Icon .feebackmsg { background: #fff; position: absolute; right:65px; bottom:13px; width: 270px; padding:20px 25px; border: 1px solid #E3E8EE; box-shadow: 0px 3px 6px #00000019; border-radius: 5px; display: none; top: auto; left: auto; box-sizing: content-box;}
+	#FeedBack_Icon .feebackmsg:after { position: absolute; content: ""; width:9px; height:9px; background: #fff; border-top: 1px solid #E3E8EE; border-right: 1px solid #E3E8EE; transform: rotate(45deg); bottom: 12px; right: -6px; } 
+	#FeedBack_Icon .feebackmsg.open { display: block;}
+	.modal-open #FeedBack_Icon.pc_feedback { display: none;}
+	.feedico { cursor: pointer;}
+	#FeedBack_Icon .feebackmsg figure { float: left; margin-right:10px;}
+	#FeedBack_Icon .feebackmsg p { float:right; width:210px;  font:15px/20px 'Lato', sans-serif;  color: #666666; }
+	#FeedBack_Icon .feebackmsg p span { display: block; text-transform: uppercase; color: #333333; font:700 11px 'Lato', sans-serif; margin-bottom:8px;}
+	#FeedBack_Icon .feebackmsg p a { color: #333333;  font:600 13px/20px 'Lato', sans-serif; text-decoration: underline;}
+	#FeedBack_Popup .modal-dialog { width: 865px;}
+	.feedintro { color: #666666; font:17px/25px 'Lato', sans-serif; margin-bottom: 20px; }
+	#FeedBack_Popup .feedhead1 { color: #333333; font:900 16px 'Lato', sans-serif; margin-bottom: 5px;}
+	#FeedBack_Popup .feedcheckbx {display: flex; flex-wrap: wrap; margin-bottom: 0; padding: 0;}
+	#FeedBack_Popup .feedcheckbx li  { width: 29%; cursor: pointer; color:#666666; font:14px 'Lato', sans-serif; margin:0px 5px 5px 0px; flex: none; padding:10px 15px; list-style: none;}
+	#FeedBack_Popup .feedcheckbx li.selected { background: #F7F8FB;}
+	#FeedBack_Popup .feedcheckbx li span { position: relative; display: inline-block; background: #fff; border: 1px solid #B1B6C4; border-radius:3px; width:17px; height:17px; vertical-align: middle; margin-right:10px; margin-top: -2px; }
+	#FeedBack_Popup .feedcheckbx li.selected span:after { position: absolute; content: ""; width:8px; height:4px; border-top:1px solid #333; border-right: 1px solid #333; transform: rotate(129deg); left: 4px; top: 5px; box-sizing: inherit;}
+	#FeedBack_Popup .feedhead2 { color: #333333;  font:600 14px 'Lato', sans-serif; margin-bottom:10px; margin-top: 10px;}
+	#FeedBack_Popup textarea { box-shadow: 0px 3px 4px #0000000D; resize: none; width: 100%;   padding: 10px; border: 1px solid #B1B6C4; border-radius: 5px; font-size: 16px; box-sizing: border-box;}
+	#FeedBack_Popup .feedbtn { text-align: center; margin-top: 35px;}
+	#FeedBack_Popup .feedbtn button, #FeedBack_Popup .submitfeed { display: inline-block; font:14px 'Lato', sans-serif; margin: 0 9px; border: 1px solid #9B9B9B; border-radius: 2px; color: #333333; width: 110px; background: #fff; cursor: pointer; transition: ease all 0.8s; padding: 10px;} 
+	#FeedBack_Popup .feedcheckbx li input { visibility: hidden; display: block; width: 17px; height:17px; margin: 0px; }
+	#FeedBack_Popup .feedbtn button:hover:hover, #FeedBack_Popup .submitfeed:hover { background:#101010; color: #fff;  text-decoration: none;}
+	#FeedBack_Popup .feedback_thank { text-align: center; padding:25px 0;  width:728px; margin: 0 auto;}
+	#FeedBack_Popup .feedback_thank .head3 { color: #333333; font:300 30px 'Lato', sans-serif; margin:15px 0; }
+	#FeedBack_Popup .feedback_thank p { color: #666666; font:18px/26px 'Lato', sans-serif; }
+	#FeedBack_Popup .feedcheckbx li input[type=checkbox]:checked~.feedcheckbx li { border: 1px solid red;}
+	#FeedBack_Icon .closfeedbx { position: absolute; top: 2px; right:4px; padding: 2px; cursor: pointer; color: #333;}
+	#FeedBack_Popup .pc_modaltitle{text-transform:uppercase;}
+	#FeedBack_Popup .feedbanner_desktop { margin:50px 0 0 0; display: block;}
+	#FeedBack_Popup .feedbanner_mobile {display: none;}
+	/*
+	body.modal-open .modal[style]:not([style='display: none;']) {
+		display: flex !important;
+		height: 100%;
+	}
+	body.modal-open .modal[style]:not([style='display: none;']) .modal-dialog {
+		margin: auto;
+	}
+	*/
+	body.modal-open #analys_pop.modal[style]:not([style='display: none;']) { text-align: center; }
+	body.modal-open .modal[style]:not([style='display: none;']) .modal-dialog {
+		transform: translate(-50%, -50%);
+		position: absolute;
+		margin: 0;
+		top: 50%;
+		left: 50%;
+	}
+/* feedback css end here */
+
+/* Free Trial popup -> Start */
+	.alllogin_popup .modal-open .modal.alllogin_popup{display: block;}
+	.alllogin_popup .modal-dialog{width: 676px; margin:100px auto 0 }
+	.alllogin_popup .modal-content{background: #F0E5E1;border-radius: 4px;}
+	.alllogin_popup .modal-body{padding: 36px 30px 14px;}
+	.alllogin_popup .close {position: absolute;right:10px;top:5px;opacity: 1;z-index: 1;}
+	.alllogin_popup .top-title{text-align: center; margin-bottom: 50px;}
+	.alllogin_popup .logintitle{color: #666666;font:700 24px/29px 'Lato', sans-serif;font-style: italic;display: flex;align-items: center;justify-content: center; margin-bottom: 20px; }
+	.alllogin_popup .logintitle span{font-weight: 900; font-style: normal;font-size: 46px;color: #000;line-height: 44px; margin:0 10px}
+	.alllogin_popup .loginlogo{width: 258px;height: auto;margin:0 auto 35px;display: block;}
+	.alllogin_popup .greybtn{background: #333333;border-radius: 6px;display: inline-block; min-width: 236px;padding: 16px 15px;color: #fff; font:700 16px 'Lato',sans-serif;position: relative;}
+	.alllogin_popup .greybtn:before{position: absolute;content:'';left:-185px;top:25px;width: 175px;background: repeating-linear-gradient(to right, #F0E5E1, #F0E5E1 1px, #999999 1px, #999999 2px);height: 1px;}
+	.alllogin_popup .greybtn:after{position: absolute;content:'';right:-185px;top:25px;width: 175px;background: repeating-linear-gradient(to right, #F0E5E1, #F0E5E1 1px, #999999 1px, #999999 2px);height: 1px;}
+	.alllogin_popup .greybtn:hover,.greybtn:active,.greybtn:focus{color: #fff;text-decoration: none;outline: none;}
+	.alllogin_popup ul.midicon{padding: 0; margin:0; display: flex; flex-wrap: wrap;}
+	.alllogin_popup ul.midicon li{width: 33.33%;color: #000; font:700 14px 'Lato',sans-serif; margin-bottom: 30px; flex-shrink: 0;}
+	.alllogin_popup ul.midicon li a{color: #000; font:700 14px 'Lato',sans-serif; display: flex;align-items: center;}
+	.alllogin_popup ul.midicon li a:hover,ul.midicon li a:focus,ul.midicon li a:active{color: #000;text-decoration: none;outline: none;}
+	.alllogin_popup ul.midicon li span{background: #fff;border-radius: 50%; width: 50px;height: 50px; display:flex;  align-items: center;flex-shrink: 0; margin-right: 8px; justify-content: center;   text-align: center;}
+	.alllogin_popup ul.midicon li img{height: 34px;}
+	.alllogin_popup ul.midicon li img.dotimg{width: 27px;height: auto;}
+	.alllogin_popup .deskview{display: block;}
+	.alllogin_popup .mobview{display: none;}
+	/* .alllogin_popup .modal-backdrop.in{z-index: 10000;} */
+/* End <- Free Trial popup */
+
+/* MC Pro User - Free Trial popup -> Start */
+	#ve_postmsg .modal-dialog {transform: translate(-50%, -50%) !important; margin: 0px !important; position: absolute !important; left: 50%; top: 50%;}
+	#ve_postmsg.modal {z-index: 999999;}
+	#ve_postmsg .modal-dialog { width:320px; border-radius:10px; z-index: 99999;  }
+	#ve_postmsg .close { position: absolute; right:15px; top: 15px; opacity: 1; color:#999999;}
+	#ve_postmsg .modal-backdrop { z-index: 99999 !important;}
+	#ve_postmsg  .modal-content {padding:20px;}
+	#ve_postmsg button.continue { background:#333333; height:40px; border-radius:3px; width: 100%; text-align:center; 
+	color:#ffffff; font:700 14px/40px 'Lato', sans-serif; cursor: pointer; }
+	#ve_postmsg .createAcount { padding:40px 0; background:#fff; border-radius:10px 0 0 10px; }
+	#ve_postmsg .mc_post_msg { text-align: center; }
+	#ve_postmsg .mc_post_msg figure { margin-bottom:20px;}
+	#ve_postmsg .mc_post_msg h6 { color: #000000; font:600 20px/28px 'Lato', sans-serif;}
+	#ve_postmsg .mc_post_msg p { margin-top:20px; color: #999999; font:12px 'Lato', sans-serif; padding-bottom:20px;}
+	#ve_postmsg .mc_post_msg p span { color: #000000; display: block; font:600 14px 'Lato', sans-serif; margin-top:2px;}
+	#ve_postmsg .mc_post_msg .ve_link_send { padding-top: 10px; color: #359A35; font:400 11px 'Lato', sans-serif;}
+/* End <- MC Pro User - Free Trial popup */
+
+@media all and (max-width: 980px) {
+	/* feedback css start here */
+		#FeedBack_Icon .feebackmsg{padding: 10px;width: 227px; box-sizing: content-box;}
+		#FeedBack_Icon.pc_feedback{right:6px}
+		#FeedBack_Icon .feebackmsg p{width: 180px;}
+		#FeedBack_Icon .feebackmsg p{font-size: 13px;}
+		#FeedBack_Popup .modal-dialog{width: 95%;margin:50px auto 0}
+		#FeedBack_Popup .pc_modalheader{height: 45px;}
+		#FeedBack_Popup .pc_modaltitle{font: 700 14px/45px 'Lato', sans-serif; }
+		#FeedBack_Popup .modal-body {padding: 10px 20px;}
+		#FeedBack_Popup .feedhead1{color: #333333;font: 900 14px 'Lato', sans-serif; margin-bottom: 10px;}
+		#FeedBack_Popup .feedcheckbx li{cursor: pointer;color: #666666; font: 14px 'Lato', sans-serif; margin: 0px 0px 2px 0px; padding: 10px 15px;width: 90%;}
+		#FeedBack_Popup .feedcheckbx li span {position: relative; display: inline-block; background: #fff; border: 1px solid #B1B6C4; border-radius: 3px; width: 17px; height: 17px; vertical-align: middle; margin-right: 10px; margin-top: -2px;}
+		#FeedBack_Popup .feedcheckbx li input {visibility: hidden; display: block; width: 17px; height: 17px; margin: 0px;}
+		#FeedBack_Popup .feedbtn{margin-top: 10px;}
+		#FeedBack_Popup .feedback_thank{width: 100%;}
+		#FeedBack_Popup .feedbanner_desktop{display: none;}
+		#FeedBack_Popup .feedbanner_mobile{display: block;}
+		#FeedBack_Popup .feedhead2 { color: #333333; font: 600 14px 'Lato', sans-serif; margin-bottom: 5px; }
+		#FeedBack_Popup textarea { box-shadow: 0px 3px 4px #0000000d; resize: none; width: 100%; padding: 5px 10px; border: 1px solid #B1B6C4; border-radius: 5px; font-size: 14px; }
+		#FeedBack_Popup textarea { box-shadow: 0px 3px 4px #0000000d; resize: none; padding: 5px 10px; border: 1px solid #B1B6C4; border-radius: 5px; font-size: 14px;}
+		body.modal-open .modal[style]:not([style='display: none;']) .modal-dialog, #LoginModal.modal .modal-dialog {
+			transform: translate(0, 0) !important;
+			position: relative  !important;
+			margin: 50px auto !important;
+			top: inherit  !important;
+			left: inherit  !important;
+			display: flex;
+			align-items: center;
+		}
+		body.modal-open .modal[style]:not([style='display: none;']) .modal-dialog .modal-content, #LoginModal.modal .modal-dialog .modal-content {
+			width: 100%;
+		}
+	/* feedback css end here */
+
+	/* Free Trial popup -> Start */
+		.alllogin_popup .modal-dialog{width:90%;margin:80px auto 0 }
+		.alllogin_popup .logintitle{display: block; font-size: 18px;}
+		.alllogin_popup .logintitle span{font-size: 30px; display: block;}
+		.alllogin_popup .deskview,.greybtn:before,.greybtn:after{display: none;}
+		.alllogin_popup .mobview{display: inline-block; width: 169px;margin: 0 0 0 10px;}
+		.alllogin_popup ul.midicon li{width: 100%;margin-bottom: 13px;}
+		.alllogin_popup ul.midicon li span{width: 40px;height: 40px;padding: 8px;}
+		.alllogin_popup .modal-body{padding: 29px 20px 14px;}
+		.alllogin_popup .top-title{margin-bottom: 20px;}
+		.alllogin_popup .greybtn{width: 100%;padding: 12px 0;font-size: 14px;}
+		.alllogin_popup ul.midicon li a,ul.midicon li{font-size: 13px;}
+	/* End <- Free Trial popup */
+}
+
+@media all and (max-width:1275px) {
+	footer.ftinsde .main-wrapper {max-width:970px;}
+	footer.ftinsde .searchBox {margin:0 10px;}
+	footer.ftinsde .footright {width:340px;}
+	footer.ftinsde .footleft {width:580px;}
+}

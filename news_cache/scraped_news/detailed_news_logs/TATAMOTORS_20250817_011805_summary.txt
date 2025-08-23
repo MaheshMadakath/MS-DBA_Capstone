@@ -1,0 +1,18 @@
+NEWS ANALYSIS SUMMARY FOR TATAMOTORS.NS
+==================================================
+Timestamp: 20250817_011805
+Total news scraped: 32
+Relevant news found: 21
+Relevance rate: 65.6%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 32 articles
+
+RELEVANT NEWS SAMPLES:
+1. Indian shares gain ahead of US-Russia talks SBI, Tata Motors rise post earnings - Reuters...
+2. Tata Motors demerger From effective date to final timeline, 5 must-know details - financialexpress.c...
+3. Tata Motors shares up 2 From tariff impact to JLR  brokerages list out 3 big concerns for FY26 - fin...
+4. Stocks to watch Tata Motors, Bharti Airtel, Voltas, ICICI Bank among shares in focus today - Mint...
+5. Tata Motors Why is BNP Paribas betting on 21 upside while other brokerages maintain caution? - finan...
+
+IRRELEVANT NEWS SAMPLES:

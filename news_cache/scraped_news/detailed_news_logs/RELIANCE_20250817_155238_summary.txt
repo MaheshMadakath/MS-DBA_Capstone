@@ -1,0 +1,24 @@
+NEWS ANALYSIS SUMMARY FOR RELIANCE.NS
+==================================================
+Timestamp: 20250817_155238
+Total news scraped: 19
+Relevant news found: 12
+Relevance rate: 63.2%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 15 articles
+  NSE/BSE: 4 articles
+
+RELEVANT NEWS SAMPLES:
+1. Market Watchlist Nifty near make-or-break level as FIIs pile shorts  From HDFC Bank to RIL, 9 stocks...
+2. Reliance Industries FMCG arm launches Campa Beverages in Sri Lanka - financialexpress.com...
+3. 100 Gw solar manufacturing capacity step towards self-reliance Minister - Business Standard...
+4. Market capitalisation of top 10 valued companies plummets by 1.36 lakh crore, Reliance worst hit - M...
+5. Reliance Infrastructure share price hits 5 lower circuit despite favourable verdict worth 526 crore ...
+
+IRRELEVANT NEWS SAMPLES:
+1. 101
+ 
+Axis Trustee Services Limited-Reliance Infrastructure Limited
+27-Feb-24...
+2. 6.	Exchange does not warrant that the information will be uninterrupted or free of any error, omissi...

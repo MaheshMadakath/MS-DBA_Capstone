@@ -1,0 +1,19 @@
+NEWS ANALYSIS SUMMARY FOR HDFCBANK.NS
+==================================================
+Timestamp: 20250817_010706
+Total news scraped: 30
+Relevant news found: 18
+Relevance rate: 60.0%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 28 articles
+  LiveMint: 2 articles
+
+RELEVANT NEWS SAMPLES:
+1. Market Watchlist Nifty near make-or-break level as FIIs pile shorts  From HDFC Bank to RIL, 9 stocks...
+2. HDFC Bank raises service charges for savings, salary customers - financialexpress.com...
+3. HDFC Bank Share Price Highlights HDFC Bank Stock Price History - The Economic Times...
+4. SP raises credit ratings of SBI, HDFC Bank, Tata Capital, 7 other firms - Business Standard...
+5. HDFC Bank to pause phone, SMS and WhatsApp banking overnight on Aug 22-23 - Business Standard...
+
+IRRELEVANT NEWS SAMPLES:

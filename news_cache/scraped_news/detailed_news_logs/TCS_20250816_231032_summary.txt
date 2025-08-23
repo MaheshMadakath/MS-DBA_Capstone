@@ -1,0 +1,19 @@
+NEWS ANALYSIS SUMMARY FOR TCS.NS
+==================================================
+Timestamp: 20250816_231032
+Total news scraped: 14
+Relevant news found: 9
+Relevance rate: 64.3%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 14 articles
+
+RELEVANT NEWS SAMPLES:
+1. Tata Consultancy Services Limited - Updates - Business Standard...
+2. TCS raises pay for 4 in 5, but clouds linger over job security  Company Business News - Mint...
+3. TCS, Now Corporation partner to boost Philippine digital infrastructure - Business Standard...
+4. TCS wage hike Who will get increment? From pay raise to roll-out date  heres all you need to know - ...
+5. Tata Consultancy Services shares gain 0.41 in early trade - Moneycontrol...
+
+IRRELEVANT NEWS SAMPLES:
+1. Tata Consultancy Services shares rise 0.80 in early trade - Moneycontrol...

@@ -1,0 +1,93 @@
+{
+  "Defense": {
+    "sample_size": 242,
+    "stocks_count": 5,
+    "pearson_correlation": -0.22680853508126306,
+    "pearson_p_value": 0.0003758213083571781,
+    "spearman_correlation": -0.18459449642332135,
+    "spearman_p_value": 0.003957209572942198,
+    "avg_sentiment": 0.1339305785123967,
+    "avg_return": 0.004392302671144269,
+    "sentiment_std": 0.30274989892936155,
+    "return_std": 0.030530591234335398,
+    "significant": "True"
+  },
+  "Energy": {
+    "sample_size": 113,
+    "stocks_count": 3,
+    "pearson_correlation": -0.21260074117793118,
+    "pearson_p_value": 0.023774155306608855,
+    "spearman_correlation": -0.1640123515149623,
+    "spearman_p_value": 0.08258762767768305,
+    "avg_sentiment": 0.1674451327433628,
+    "avg_return": -0.0006920032554545893,
+    "sentiment_std": 0.36689339440164714,
+    "return_std": 0.017354074545255848,
+    "significant": "True"
+  },
+  "IT Services": {
+    "sample_size": 117,
+    "stocks_count": 4,
+    "pearson_correlation": -0.03497355161528662,
+    "pearson_p_value": 0.7081441422565153,
+    "spearman_correlation": -0.004061271245915069,
+    "spearman_p_value": 0.9653365344350859,
+    "avg_sentiment": 0.15143675213675215,
+    "avg_return": -0.0019615238746526994,
+    "sentiment_std": 0.23373505875105785,
+    "return_std": 0.015136217166636006,
+    "significant": "False"
+  },
+  "Banking": {
+    "sample_size": 189,
+    "stocks_count": 4,
+    "pearson_correlation": -0.015169562841655338,
+    "pearson_p_value": 0.8358728502113347,
+    "spearman_correlation": -0.08792170793769913,
+    "spearman_p_value": 0.22896230185726352,
+    "avg_sentiment": 0.17499100529100528,
+    "avg_return": 0.001173520007972845,
+    "sentiment_std": 0.26604541600281645,
+    "return_std": 0.013423985355917458,
+    "significant": "False"
+  },
+  "FMCG": {
+    "sample_size": 88,
+    "stocks_count": 3,
+    "pearson_correlation": -0.07766332595966602,
+    "pearson_p_value": 0.4720072519184692,
+    "spearman_correlation": -0.022560164843296926,
+    "spearman_p_value": 0.8347342366653141,
+    "avg_sentiment": 0.22135681818181815,
+    "avg_return": 0.00035601978038822134,
+    "sentiment_std": 0.24230427285261238,
+    "return_std": 0.014367002328785412,
+    "significant": "False"
+  },
+  "Jewelry": {
+    "sample_size": 102,
+    "stocks_count": 4,
+    "pearson_correlation": -0.16194830589378081,
+    "pearson_p_value": 0.10390842511643307,
+    "spearman_correlation": -0.09786314879420716,
+    "spearman_p_value": 0.32780758150180966,
+    "avg_sentiment": 0.214935294117647,
+    "avg_return": 0.003817878046980357,
+    "sentiment_std": 0.3060402945860376,
+    "return_std": 0.040324628346929424,
+    "significant": "False"
+  },
+  "Automotive": {
+    "sample_size": 121,
+    "stocks_count": 3,
+    "pearson_correlation": 0.014754669012373454,
+    "pearson_p_value": 0.8723884446543668,
+    "spearman_correlation": 0.06254032826381485,
+    "spearman_p_value": 0.4955739657031979,
+    "avg_sentiment": 0.17507851239669422,
+    "avg_return": 0.0006271549924790526,
+    "sentiment_std": 0.25464487828039123,
+    "return_std": 0.015306534721550935,
+    "significant": "False"
+  }
+}

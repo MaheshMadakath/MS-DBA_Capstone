@@ -1,0 +1,18 @@
+NEWS ANALYSIS SUMMARY FOR ONGC.NS
+==================================================
+Timestamp: 20250817_011324
+Total news scraped: 21
+Relevant news found: 12
+Relevance rate: 57.1%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 21 articles
+
+RELEVANT NEWS SAMPLES:
+1. Mixed signals after ONGC Q1 nos whats the best move for investors now? - Business Standard...
+2. ONGC Q1 results Net profit falls 10 to 8,024 cr on lower oil prices - Business Standard...
+3. Q1 Results Today ONGC, HAL, Nykaa, NMDC, Suzlon Energy, Zydus among 580 companies to announce earnin...
+4. Oil India share price tanks 5 post Q1 results check stock strategy here - Business Standard...
+5. ONGC rises after Q1 PAT jumps 24 QoQ to Rs 8,024 cr - Business Standard...
+
+IRRELEVANT NEWS SAMPLES:

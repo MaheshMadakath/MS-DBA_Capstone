@@ -1,0 +1,19 @@
+NEWS ANALYSIS SUMMARY FOR BEL.NS
+==================================================
+Timestamp: 20250817_011942
+Total news scraped: 18
+Relevant news found: 10
+Relevance rate: 55.6%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 10 articles
+  Financial Express: 8 articles
+
+RELEVANT NEWS SAMPLES:
+1. Bharat electronics - Latest bharat electronics , Information  Updates - BFSI -ET BFSI - BFSI News...
+2. Independence Day stock picks BEL, PFC to Hero Motocorp - SMC expert recommends THESE 11 stocks to bu...
+3. Stocks to buy for long term From Bharti Airtel to BEL Motilal Oswals expert suggests 10 shares for u...
+4. Dividend Stocks InterGlobe Aviation, Akzo Nobel, ICICI Bank, among others to trade ex-dividend next ...
+5. HAL, BEL, BEML to Mazagon Dock Experts recommend these defence stocks to buy ahead of Indian Indepen...
+
+IRRELEVANT NEWS SAMPLES:

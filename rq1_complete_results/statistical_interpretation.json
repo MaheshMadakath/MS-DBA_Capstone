@@ -1,0 +1,72 @@
+{
+  "correlation_interpretation": {
+    "1_day": {
+      "correlation_value": -0.13963677142647177,
+      "strength": "weak",
+      "direction": "negative",
+      "statistical_significance": "significant",
+      "p_value": 1.2466569672602604e-05,
+      "interpretation": "There is a weak negative correlation (-0.1396) between sentiment and 1_day returns that is significant (p=0.0000)"
+    },
+    "2_day": {
+      "correlation_value": -0.11035533448749774,
+      "strength": "weak",
+      "direction": "negative",
+      "statistical_significance": "significant",
+      "p_value": 0.000575114837842176,
+      "interpretation": "There is a weak negative correlation (-0.1104) between sentiment and 2_day returns that is significant (p=0.0006)"
+    },
+    "3_day": {
+      "correlation_value": -0.11494080006078075,
+      "strength": "weak",
+      "direction": "negative",
+      "statistical_significance": "significant",
+      "p_value": 0.0003464869870802405,
+      "interpretation": "There is a weak negative correlation (-0.1149) between sentiment and 3_day returns that is significant (p=0.0003)"
+    }
+  },
+  "model_performance_interpretation": {
+    "Returns_1d_binary": {
+      "logistic_regression": {
+        "accuracy": 0.4972972972972973,
+        "performance_level": "poor",
+        "interpretation": "logistic_regression shows poor predictive performance with 49.7% accuracy for Returns_1d_binary"
+      },
+      "random_forest": {
+        "accuracy": 0.5135135135135135,
+        "performance_level": "weak",
+        "interpretation": "random_forest shows weak predictive performance with 51.4% accuracy for Returns_1d_binary"
+      }
+    },
+    "Returns_2d_binary": {
+      "logistic_regression": {
+        "accuracy": 0.5513513513513514,
+        "performance_level": "moderate",
+        "interpretation": "logistic_regression shows moderate predictive performance with 55.1% accuracy for Returns_2d_binary"
+      },
+      "random_forest": {
+        "accuracy": 0.6,
+        "performance_level": "moderate",
+        "interpretation": "random_forest shows moderate predictive performance with 60.0% accuracy for Returns_2d_binary"
+      }
+    },
+    "Returns_3d_binary": {
+      "logistic_regression": {
+        "accuracy": 0.5837837837837838,
+        "performance_level": "moderate",
+        "interpretation": "logistic_regression shows moderate predictive performance with 58.4% accuracy for Returns_3d_binary"
+      },
+      "random_forest": {
+        "accuracy": 0.6054054054054054,
+        "performance_level": "good",
+        "interpretation": "random_forest shows good predictive performance with 60.5% accuracy for Returns_3d_binary"
+      }
+    }
+  },
+  "key_findings": [
+    "Strongest correlation found: 1_day returns show -0.1396 correlation with sentiment",
+    "CONTRARIAN PATTERN: All time horizons show negative sentiment-return correlations, suggesting contrarian market behavior"
+  ],
+  "statistical_significance": {},
+  "practical_implications": []
+}

@@ -1,0 +1,12 @@
+{
+  "total_cases": 20,
+  "contrarian_count": 12,
+  "aligned_count": 4,
+  "contrarian_percentage": 60.0,
+  "contrarian_with_earnings": 4,
+  "aligned_with_earnings": 2,
+  "contrarian_avg_move": 0.10956270005161765,
+  "contrarian_sentiment_strength": 0.205275,
+  "aligned_avg_move": 0.10505077246067801,
+  "aligned_sentiment_strength": 0.28625
+}

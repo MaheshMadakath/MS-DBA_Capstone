@@ -1,0 +1,17 @@
+NEWS ANALYSIS SUMMARY FOR HCLTECH.NS
+==================================================
+Timestamp: 20250816_231151
+Total news scraped: 11
+Relevant news found: 4
+Relevance rate: 36.4%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 11 articles
+
+RELEVANT NEWS SAMPLES:
+1. Stocks to buy for short term From Titan to HCL Tech Jigar Patel of Anand Rathi recommends 3 shares -...
+2. HCL Technologies Ltd spurts 0.16, gains for five straight sessions - Business Standard...
+3. HCL Tech Share Price Live Updates HCL Techs Previous Day Performance - The Economic Times...
+4. HCL Tech Share Price Highlights HCL Tech Stock Price History - The Economic Times...
+
+IRRELEVANT NEWS SAMPLES:

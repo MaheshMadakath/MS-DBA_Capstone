@@ -1,0 +1,18 @@
+NEWS ANALYSIS SUMMARY FOR COCHINSHIP.NS
+==================================================
+Timestamp: 20250817_162848
+Total news scraped: 22
+Relevant news found: 21
+Relevance rate: 95.5%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 22 articles
+
+RELEVANT NEWS SAMPLES:
+1. Cochin Shipyard shares rise 3 despite analyst caution should you sell? - Business Standard...
+2. Stocks to watch Nykaa, IRCTC, Vodafone Idea, Cochin Shipyard, BPCL among shares in focus today - Min...
+3. Stocks to watch Hindalco, Indian Hotels, HAL, Cochin Shipyard among shares in focus today - Mint...
+4. Stocks to Watch today, Aug 13 Paytm, Nykaa, NSDL, ONGC, Cochin Shipyard - Business Standard...
+5. Cochin Shipyard gains after Q1 PAT rises 8 YoY to Rs 188 crore - Business Standard...
+
+IRRELEVANT NEWS SAMPLES:

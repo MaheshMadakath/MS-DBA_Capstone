@@ -1,0 +1,20 @@
+NEWS ANALYSIS SUMMARY FOR M&M.NS
+==================================================
+Timestamp: 20250817_162539
+Total news scraped: 31
+Relevant news found: 25
+Relevance rate: 80.6%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 30 articles
+  LiveMint: 1 articles
+
+RELEVANT NEWS SAMPLES:
+1. Mahindra  Mahindra introduces BE 6 Batman Edition - Business Standard...
+2. Transfer Of Equity Shares By Mahindra  Mahindra Employees Stock Option Trust To The Stock Option Gra...
+3. Mahindra  Mahindra Limited - Updates - Business Standard...
+4. The New King of SUVs? How Mahindra is Stealing Marutis Crown - financialexpress.com...
+5. Mahindra  Mahindra unveils its multi-energy NU_IQ platform - Business Standard...
+
+IRRELEVANT NEWS SAMPLES:
+1. Mahindra looks to acquire 350-acre land parcel in Igatpuri - The Economic Times...

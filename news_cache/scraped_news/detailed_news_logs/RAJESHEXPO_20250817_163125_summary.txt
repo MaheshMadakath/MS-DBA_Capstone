@@ -1,0 +1,16 @@
+NEWS ANALYSIS SUMMARY FOR RAJESHEXPO.NS
+==================================================
+Timestamp: 20250817_163125
+Total news scraped: 3
+Relevant news found: 3
+Relevance rate: 100.0%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 3 articles
+
+RELEVANT NEWS SAMPLES:
+1. 2 top stock recommendations from Rajesh Bhosale - The Economic Times...
+2. UNO Minda Rally May Extend as Breakout, Volumes Support Uptrend, says Rajesh Palviya - The Economic ...
+3. Rajesh Exports Ltd. News and Updates - page 8 - Trendlyne.com...
+
+IRRELEVANT NEWS SAMPLES:

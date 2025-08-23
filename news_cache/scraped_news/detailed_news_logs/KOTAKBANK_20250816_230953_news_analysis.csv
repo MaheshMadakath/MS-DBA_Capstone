@@ -1,0 +1,45 @@
+timestamp,symbol,date,headline,source,url,search_term,is_relevant,relevance_reason,combined_sentiment,sentiment_label,event_tag,textblob_polarity,vader_compound,finbert_score
+20250816_230953,KOTAKBANK.NS,2025-08-15,Kotak Mahindra Bank Option Chain Strike Price Date  NSE Option Chain Price Live - Mint,GoogleNewsRSS,https://news.google.com/rss/articles/CBMilgFBVV95cUxPbi1NUjhHV3NxOTNoREtIb1pVUFpCUHBHWVp2VXBWWS1WTzQ1dl9MU2VFSUQyTDl0dE93TEEzbGkzY1NyNzBneFVpSHRjem8zdzVDcmlUTXhBc01SU05NQ2VQX3o4eF9yS2l5SS1rUnpwVGlRaXdWWHBTZkxQcWlMaVRaLUJTelhwbjc1ZmpKczh6YWtJbHc?oc=5,Kotak Mahindra Bank,True,"Contains stock name: Kotak Mahindra Bank, Kotak",-0.011545531245069744,neutral,macro_regulatory,0.13636363636363635,-0.128,-1.278326919873507e-07
+20250816_230953,KOTAKBANK.NS,2025-08-10,Kotak Large Cap Growth  Mutual Fund Performance - Mint,GoogleNewsRSS,https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFBBZ0owVGFxb2xUbkV2UUVlZ2F1VDl4UHlfM2xqTXNFUmRGMk9aUXZmZVg2ZlRUSEM2NldmS1BZalZuNG1rblJHQzlPWS1wbWoteUY1RFc0QW5CRW9WWHctTWJPS2ExUWpEMEVGR24tdFpvSUhxYUZmcE5RdHUzX1gzbEFWRzdyWnBqRzNNWGFBWUk?oc=5,Kotak Mahindra Bank,True,Contains stock name: Kotak,0.12777493254555655,positive,general,0.21428571428571427,0.3818,0.0003034590044990182
+20250816_230953,KOTAKBANK.NS,2025-08-12,"Jay Kotak criticises ICICI Banks Rs 50,000 MAB decision - financialexpress.com",GoogleNewsRSS,https://news.google.com/rss/articles/CBMivgFBVV95cUxQdkpFQ3RaWlBVazZ4ZFl0RUp2WklGMDlEXy1WS2t6WGNQR180bzI3S1haWkR4VG5WWWVMc2pGNFhwcDdwcHlEbVFtWkZEX3RKdm1WYUFUWF94SXVIbnluV0pjek5GS0RnRUo3eEx5LU50akZEM21VbWhybXMzTGxBaGFyVDFocHczSjE2bmNHeC14NldLM1Z5cnhsY2VlbmpONnRyMEdRME9vTExEQy1abE5PY29jN3dTNVQyeWpB?oc=5,Kotak Mahindra Bank,True,Contains stock name: Kotak,-0.08162927050068974,neutral,macro_regulatory,0.0,-0.3182,-0.0034654508344829082
+20250816_230953,KOTAKBANK.NS,2025-08-15,Kotak Mahindra Bank Option Chain Strike Price Date  NSE Option Chain Price Live - Mint,GoogleNewsRSS,https://news.google.com/rss/articles/CBMilgFBVV95cUxPbi1NUjhHV3NxOTNoREtIb1pVUFpCUHBHWVp2VXBWWS1WTzQ1dl9MU2VFSUQyTDl0dE93TEEzbGkzY1NyNzBneFVpSHRjem8zdzVDcmlUTXhBc01SU05NQ2VQX3o4eF9yS2l5SS1rUnpwVGlRaXdWWHBTZkxQcWlMaVRaLUJTelhwbjc1ZmpKczh6YWtJbHc?oc=5,Kotak Bank,True,"Contains stock name: Kotak Mahindra Bank, Kotak",-0.011545531245069744,neutral,macro_regulatory,0.13636363636363635,-0.128,-1.278326919873507e-07
+20250816_230953,KOTAKBANK.NS,2025-08-10,Kotak Large Cap Growth  Mutual Fund Performance - Mint,GoogleNewsRSS,https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFBBZ0owVGFxb2xUbkV2UUVlZ2F1VDl4UHlfM2xqTXNFUmRGMk9aUXZmZVg2ZlRUSEM2NldmS1BZalZuNG1rblJHQzlPWS1wbWoteUY1RFc0QW5CRW9WWHctTWJPS2ExUWpEMEVGR24tdFpvSUhxYUZmcE5RdHUzX1gzbEFWRzdyWnBqRzNNWGFBWUk?oc=5,Kotak Bank,True,Contains stock name: Kotak,0.12777493254555655,positive,general,0.21428571428571427,0.3818,0.0003034590044990182
+20250816_230953,KOTAKBANK.NS,2025-08-12,"Jay Kotak criticises ICICI Banks Rs 50,000 MAB decision - financialexpress.com",GoogleNewsRSS,https://news.google.com/rss/articles/CBMivgFBVV95cUxQdkpFQ3RaWlBVazZ4ZFl0RUp2WklGMDlEXy1WS2t6WGNQR180bzI3S1haWkR4VG5WWWVMc2pGNFhwcDdwcHlEbVFtWkZEX3RKdm1WYUFUWF94SXVIbnluV0pjek5GS0RnRUo3eEx5LU50akZEM21VbWhybXMzTGxBaGFyVDFocHczSjE2bmNHeC14NldLM1Z5cnhsY2VlbmpONnRyMEdRME9vTExEQy1abE5PY29jN3dTNVQyeWpB?oc=5,Kotak Bank,True,Contains stock name: Kotak,-0.08162927050068974,neutral,macro_regulatory,0.0,-0.3182,-0.0034654508344829082
+20250816_230953,KOTAKBANK.NS,2025-08-16,"Premium
+
+
+
+
+
+S&P Global upgrades credit ratings of SBI, HDFC Bank, among others
+
+
+
+2 min read
+.
+03:56 PM IST
+
+
+
+
+
+Share Via",LiveMint,https://www.livemint.com/companies/news/sp-global-upgrades-credit-ratings-of-sbi-hdfc-bank-tata-capital-among-10-financial-institutions-11755337903274.html,Kotak Mahindra Bank,True,Matched by other criteria,0.1464939878657693,positive,broker_rating,0.0,0.5859,3.164644294884056e-05
+20250816_230953,KOTAKBANK.NS,2025-08-16,"Premium
+
+
+
+
+
+Spirit Airlines Ailing From Costs Missed in Quick-Fix Bankruptcy
+
+
+
+3 min read
+.
+12:06 AM IST
+
+
+
+
+
+Share Via",LiveMint,https://www.livemint.com/companies/news/spirit-airlines-ailing-from-costs-missed-in-quick-fix-bankruptcy-11755282987994.html,Kotak Mahindra Bank,True,Matched by other criteria,0.03226641381382942,neutral,macro_regulatory,0.0,0.1779,-0.02034764364361763

@@ -1,0 +1,49 @@
+NEWS ANALYSIS SUMMARY FOR ITC.NS
+==================================================
+Timestamp: 20250817_162227
+Total news scraped: 32
+Relevant news found: 14
+Relevance rate: 43.8%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 13 articles
+  Financial Express: 2 articles
+  NSE/BSE: 16 articles
+  LiveMint: 1 articles
+
+RELEVANT NEWS SAMPLES:
+1. ITC Share Price Highlights ITC Stock Price History - The Economic Times...
+2. British American Tobacco awaiting RBI approval to check out of ITC Hotels - The Economic Times...
+3. Geminis Glitch There are lessons to learn  Mint - Mint...
+4. Urban demand drives FMCG Q1 gains Is it sustainable?  FMCG sector  HUL, Dabur, ITC  Stock market - B...
+5. ITC Hotels to Waaree Energies This analyst lists 3 stocks to buy to beat Trump tariff heat, pegs Nif...
+
+IRRELEVANT NEWS SAMPLES:
+1. 36
+
+ 
+
+Mitcon Credentia Trusteeship Services Limited
+
+
+28-Jun-23...
+2. 37
+
+ 
+
+Mitcon Credentia Trusteeship Services Limited
+
+
+29-Jun-23...
+3. 40
+ 
+Mitcon Credentia Trusteeship Services Limited
+13-Sept-23...
+4. 41
+ 
+Mitcon Credentia Trusteeship Services Limited
+13-Sept-23...
+5. 42
+ 
+Mitcon Credentia Trusteeship Services Limited
+13-Sept-23...

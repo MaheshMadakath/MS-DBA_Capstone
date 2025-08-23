@@ -1,0 +1,20 @@
+NEWS QUALITY ANALYSIS & RECOMMENDATIONS
+==================================================
+
+MANUAL REVIEW CHECKLIST:
+- Check relevance rate per stock (target: >60%)
+- Review 'irrelevant' samples - are they actually relevant?
+- Check if stock names are being detected properly
+- Verify sentiment scores make sense for headlines
+- Look for false positives in 'relevant' news
+
+FILES TO REVIEW:
+1. Individual stock analysis: *_news_analysis.csv
+2. Summary files: *_summary.txt
+3. Overall summary: OVERALL_RELEVANCE_SUMMARY_*.csv
+
+IMPROVEMENT ACTIONS:
+- If relevance rate < 50%: Adjust stock name mapping
+- If too many false positives: Tighten relevance criteria
+- If missing relevant news: Add more search terms
+- If sentiment looks wrong: Check sentiment analyzer

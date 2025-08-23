@@ -1,0 +1,185 @@
+{
+  "correlation": {
+    "pearson": {
+      "1_day": {
+        "correlation": -0.13963677142647177,
+        "p_value": 1.2466569672602604e-05,
+        "sample_size": 972
+      },
+      "2_day": {
+        "correlation": -0.11035533448749774,
+        "p_value": 0.000575114837842176,
+        "sample_size": 970
+      },
+      "3_day": {
+        "correlation": -0.11494080006078075,
+        "p_value": 0.0003464869870802405,
+        "sample_size": 965
+      }
+    },
+    "spearman": {
+      "1_day": {
+        "correlation": -0.08717218007188068,
+        "p_value": 0.006539242518639697,
+        "sample_size": 972
+      },
+      "2_day": {
+        "correlation": -0.04691448122456195,
+        "p_value": 0.14427271790008867,
+        "sample_size": 970
+      },
+      "3_day": {
+        "correlation": -0.07272694289199799,
+        "p_value": 0.023865565474156854,
+        "sample_size": 965
+      }
+    }
+  },
+  "regression": {
+    "Returns_1d": {
+      "random_forest": {
+        "r2_score": -0.1465838078927335,
+        "mse": 0.0007010883773238434,
+        "feature_importance": {
+          "ensemble_score_mean": 0.24810351049087545,
+          "confidence_mean": 0.2069757708098852,
+          "sentiment_lag1": 0.2763943964606472,
+          "sentiment_lag2": 0.2685263222385922
+        },
+        "sample_size": 925,
+        "train_size": 740,
+        "test_size": 185
+      }
+    },
+    "Returns_2d": {
+      "random_forest": {
+        "r2_score": -0.18254060273785866,
+        "mse": 0.0009336728755387685,
+        "feature_importance": {
+          "ensemble_score_mean": 0.23927997719373828,
+          "confidence_mean": 0.2043249873519708,
+          "sentiment_lag1": 0.28679589260807026,
+          "sentiment_lag2": 0.2695991428462206
+        },
+        "sample_size": 925,
+        "train_size": 740,
+        "test_size": 185
+      }
+    },
+    "Returns_3d": {
+      "random_forest": {
+        "r2_score": -0.18452615256370475,
+        "mse": 0.0012027000311473173,
+        "feature_importance": {
+          "ensemble_score_mean": 0.23733285580959135,
+          "confidence_mean": 0.18158132372941563,
+          "sentiment_lag1": 0.2807772420648982,
+          "sentiment_lag2": 0.3003085783960948
+        },
+        "sample_size": 925,
+        "train_size": 740,
+        "test_size": 185
+      }
+    }
+  },
+  "classification": {
+    "Returns_1d_binary": {
+      "logistic_regression": {
+        "accuracy": 0.4972972972972973,
+        "precision": 0.5,
+        "recall": 0.5161290322580645,
+        "f1_score": 0.5079365079365079,
+        "sample_size": 925
+      },
+      "random_forest": {
+        "accuracy": 0.5135135135135135,
+        "precision": 0.5151515151515151,
+        "recall": 0.5483870967741935,
+        "f1_score": 0.53125,
+        "feature_importance": {
+          "ensemble_score_mean": 0.260114320746675,
+          "confidence_mean": 0.2498257530234466,
+          "sentiment_lag1": 0.2522195667350808,
+          "sentiment_lag2": 0.23784035949479765
+        },
+        "sample_size": 925
+      }
+    },
+    "Returns_2d_binary": {
+      "logistic_regression": {
+        "accuracy": 0.5513513513513514,
+        "precision": 0.5526315789473685,
+        "recall": 0.46153846153846156,
+        "f1_score": 0.5029940119760479,
+        "sample_size": 925
+      },
+      "random_forest": {
+        "accuracy": 0.6,
+        "precision": 0.580952380952381,
+        "recall": 0.6703296703296703,
+        "f1_score": 0.6224489795918368,
+        "feature_importance": {
+          "ensemble_score_mean": 0.25887550990191593,
+          "confidence_mean": 0.25367320895106915,
+          "sentiment_lag1": 0.24030557944894132,
+          "sentiment_lag2": 0.2471457016980737
+        },
+        "sample_size": 925
+      }
+    },
+    "Returns_3d_binary": {
+      "logistic_regression": {
+        "accuracy": 0.5837837837837838,
+        "precision": 0.6206896551724138,
+        "recall": 0.3956043956043956,
+        "f1_score": 0.48322147651006714,
+        "sample_size": 925
+      },
+      "random_forest": {
+        "accuracy": 0.6054054054054054,
+        "precision": 0.5978260869565217,
+        "recall": 0.6043956043956044,
+        "f1_score": 0.6010928961748634,
+        "feature_importance": {
+          "ensemble_score_mean": 0.25277534267670954,
+          "confidence_mean": 0.24423797102488104,
+          "sentiment_lag1": 0.25051581354643515,
+          "sentiment_lag2": 0.2524708727519742
+        },
+        "sample_size": 925
+      }
+    }
+  },
+  "time_horizon": {
+    "3_day_window": {
+      "mean_correlation": 0.018586862112698426,
+      "std_correlation": 0.7181558718238414,
+      "median_correlation": -0.0014570934184286032,
+      "sample_size": 897
+    },
+    "5_day_window": {
+      "mean_correlation": 0.0208844883107638,
+      "std_correlation": 0.5059188062378024,
+      "median_correlation": 0.014864205581963415,
+      "sample_size": 845
+    },
+    "7_day_window": {
+      "mean_correlation": 0.023137811917960372,
+      "std_correlation": 0.4093460775062478,
+      "median_correlation": 0.011868039998043412,
+      "sample_size": 793
+    }
+  },
+  "statistical_tests": {
+    "sentiment_returns_ttest": {
+      "t_statistic": NaN,
+      "p_value": NaN,
+      "significant": "False"
+    },
+    "anova_sentiment_categories": {
+      "f_statistic": NaN,
+      "p_value": NaN,
+      "significant": "False"
+    }
+  }
+}

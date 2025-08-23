@@ -1,0 +1,237 @@
+D:\Mahesh\Analytics\Capstone\venv\Scripts\python.exe D:/Mahesh/Analytics/Capstone/final_enhanced_scraper.py
+Enhanced News Scraper - Using Validated URLs
+==================================================
+Loaded 26 validated stock URLs
+Available stocks: ['HDFCBANK.NS', 'ICICIBANK.NS', 'SBIN.NS', 'KOTAKBANK.NS', 'TCS.NS', 'INFY.NS', 'HCLTECH.NS', 'WIPRO.NS', 'RELIANCE.NS', 'ONGC.NS', 'BPCL.NS', 'ITC.NS', 'HINDUNILVR.NS', 'NESTLEIND.NS', 'MARUTI.NS', 'M&M.NS', 'TATAMOTORS.NS', 'HAL.NS', 'BEL.NS', 'BHEL.NS', 'COCHINSHIP.NS', 'GRSE.NS', 'KALYANKJIL.NS', 'TITAN.NS', 'RAJESHEXPO.NS', 'THANGAMAYL.NS']
+Starting comprehensive news collection...
+============================================================
+
+Processing HDFCBANK.NS ( HDFC Bank,  HDFCBANK,  HDFC,  HDFC BANK, )...
+  Scraping MoneyControl for HDFCBANK.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 170 links with: a[href*="/news/"]
+    MoneyControl: 29 articles
+    Final count: 15 unique articles
+
+Processing ICICIBANK.NS ( ICICI Bank,  ICICIBANK,  ICICI,  ICICI BANK, )...
+  Scraping MoneyControl for ICICIBANK.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 31 articles
+    Final count: 15 unique articles
+
+Processing SBIN.NS ( State Bank of India,  SBI,  SBIN,  State Bank, )...
+  Scraping MoneyControl for SBIN.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 168 links with: a[href*="/news/"]
+    MoneyControl: 26 articles
+    Final count: 15 unique articles
+
+Processing KOTAKBANK.NS ( Kotak Mahindra Bank,  Kotak Bank,  KOTAKBANK,  Kotak, )...
+  Scraping MoneyControl for KOTAKBANK.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 170 links with: a[href*="/news/"]
+    MoneyControl: 28 articles
+    Final count: 15 unique articles
+
+Processing TCS.NS ( Tata Consultancy Services,  TCS,  Tata Consultancy, )...
+  Scraping MoneyControl for TCS.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 168 links with: a[href*="/news/"]
+    MoneyControl: 40 articles
+    Final count: 15 unique articles
+
+Processing INFY.NS ( Infosys,  INFY,  Infosys Limited, )...
+  Scraping MoneyControl for INFY.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 41 articles
+    Final count: 15 unique articles
+
+Processing HCLTECH.NS ( HCL Technologies,  HCL Tech,  HCLTECH,  HCL, )...
+  Scraping MoneyControl for HCLTECH.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 30 articles
+    Final count: 15 unique articles
+
+Processing WIPRO.NS ( Wipro,  WIPRO,  Wipro Limited, )...
+  Scraping MoneyControl for WIPRO.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 23 articles
+    Final count: 15 unique articles
+
+Processing RELIANCE.NS ( Reliance Industries,  RIL,  Jio,  Reliance Retail,  Ajio ,  Reliance,  RELIANCE, )...
+  Scraping MoneyControl for RELIANCE.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 26 articles
+    Final count: 15 unique articles
+
+Processing ONGC.NS ( Oil and Natural Gas Corporation,  ONGC,  Oil India, )...
+  Scraping MoneyControl for ONGC.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 20 articles
+    Final count: 15 unique articles
+
+Processing BPCL.NS ( Bharat Petroleum,  BPCL,  Bharat Petroleum Corporation, )...
+  Scraping MoneyControl for BPCL.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 15 articles
+    Final count: 15 unique articles
+
+Processing ITC.NS ( ITC Limited,  ITC,  Indian Tobacco Company, )...
+  Scraping MoneyControl for ITC.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 46 articles
+    Final count: 15 unique articles
+
+Processing HINDUNILVR.NS ( Hindustan Unilever,  HUL,  HINDUNILVR,  Hindustan Unilever Limited, )...
+  Scraping MoneyControl for HINDUNILVR.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 44 articles
+    Final count: 15 unique articles
+
+Processing NESTLEIND.NS ( Nestle India,  Nestle,  NESTLEIND, )...
+  Scraping MoneyControl for NESTLEIND.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 20 articles
+    Final count: 15 unique articles
+
+Processing MARUTI.NS ( Maruti Suzuki,  Maruti,  MARUTI,  Maruti Suzuki India, )...
+  Scraping MoneyControl for MARUTI.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 170 links with: a[href*="/news/"]
+    MoneyControl: 30 articles
+    Final count: 15 unique articles
+
+Processing M&M.NS ( Mahindra & Mahindra,  M&M,  Mahindra,  Mahindra and Mahindra, )...
+  Scraping MoneyControl for M&M.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 25 articles
+    Final count: 15 unique articles
+
+Processing TATAMOTORS.NS ( Tata Motors,  TATAMOTORS,  Tata Motors Limited, )...
+  Scraping MoneyControl for TATAMOTORS.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 170 links with: a[href*="/news/"]
+    MoneyControl: 33 articles
+    Final count: 15 unique articles
+
+Processing HAL.NS ( Hindustan Aeronautics,  HAL,  Hindustan Aeronautics Limited, )...
+  Scraping MoneyControl for HAL.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 24 articles
+    Final count: 15 unique articles
+
+Processing BEL.NS ( Bharat Electronics,  BEL,  Bharat Electronics Limited, )...
+  Scraping MoneyControl for BEL.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 30 articles
+    Final count: 15 unique articles
+
+Processing BHEL.NS ( Bharat Heavy Electricals,  BHEL,  Bharat Heavy Electricals Limited, )...
+  Scraping MoneyControl for BHEL.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 10 articles
+  Scraping Google News RSS for BHEL.NS...
+    Google RSS: 9 articles
+    Final count: 15 unique articles
+
+Processing COCHINSHIP.NS ( Cochin Shipyard,  COCHINSHIP,  Cochin Shipyard Limited, )...
+  Scraping MoneyControl for COCHINSHIP.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 35 articles
+    Final count: 15 unique articles
+
+Processing GRSE.NS ( Garden Reach Shipbuilders,  GRSE,  Garden Reach, )...
+  Scraping MoneyControl for GRSE.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 14 articles
+  Scraping Google News RSS for GRSE.NS...
+    Google RSS: 39 articles
+    Final count: 15 unique articles
+
+Processing KALYANKJIL.NS ( Kalyan Jewellers,  KALYANKJIL,  Kalyan,  Kalyan Jewellery, )...
+  Scraping MoneyControl for KALYANKJIL.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 35 articles
+    Final count: 15 unique articles
+
+Processing TITAN.NS ( Titan Company,  Titan,  Tanishq,  Titan Jewellery, )...
+  Scraping MoneyControl for TITAN.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 172 links with: a[href*="/news/"]
+    MoneyControl: 38 articles
+    Final count: 15 unique articles
+
+Processing RAJESHEXPO.NS ( Rajesh Exports,  RAJESHEXPO,  Rajesh,  Rajesh Exports Limited, )...
+  Scraping MoneyControl for RAJESHEXPO.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 76 links with: a[href*="/news/"]
+    MoneyControl: 0 articles
+  Scraping Google News RSS for RAJESHEXPO.NS...
+    Google RSS: 9 articles
+    Final count: 9 unique articles
+
+Processing THANGAMAYL.NS ( THANGAMAYL Jewellery,  THANGAMAYL,  THANGAMAYL,  THANGAMAYL Limited)...
+  Scraping MoneyControl for THANGAMAYL.NS...
+    Found 5 links with: table tr td a[href*="/news/"]
+    Found 96 links with: a[href*="/news/"]
+    MoneyControl: 2 articles
+  Scraping Google News RSS for THANGAMAYL.NS...
+    Google RSS: 2 articles
+    Final count: 4 unique articles
+Raw news saved: enhanced_news_raw_20250817_215443.csv
+Daily sentiment saved: enhanced_daily_sentiment_20250817_215443.csv
+
+ENHANCED NEWS COLLECTION REPORT
+================================
+
+OVERALL METRICS:
+- Total articles collected: 373
+- High relevance articles: 223
+- Relevance rate: 59.8%
+- Target achieved: NO
+
+SOURCE BREAKDOWN:
+- MoneyControl: 695 articles
+- Google News RSS: 59 articles
+
+TOP PERFORMING STOCKS:
+symbol
+BEL.NS           15
+BHEL.NS          15
+BPCL.NS          15
+COCHINSHIP.NS    15
+GRSE.NS          15
+HAL.NS           15
+HCLTECH.NS       15
+HDFCBANK.NS      15
+HINDUNILVR.NS    15
+ICICIBANK.NS     15
+
+COLLECTION SUCCESS:
+NEEDS IMPROVEMENT
+
+RECOMMENDATION:
+Consider manual validation of headlines
+
+
+Files created:
+  raw_news: enhanced_news_raw_20250817_215443.csv
+  daily_sentiment: enhanced_daily_sentiment_20250817_215443.csv
+  stats: collection_stats_20250817_215443.json

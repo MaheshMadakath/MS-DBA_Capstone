@@ -1,0 +1,22 @@
+NEWS ANALYSIS SUMMARY FOR HAL.NS
+==================================================
+Timestamp: 20250817_162657
+Total news scraped: 47
+Relevant news found: 32
+Relevance rate: 68.1%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 31 articles
+  Financial Express: 8 articles
+  NSE/BSE: 7 articles
+  LiveMint: 1 articles
+
+RELEVANT NEWS SAMPLES:
+1. Hindustan Aeronautics Limited Q1 results Profit drops 3.7, revenue at Rs 4,819 crore - financialexpr...
+2. HAL Q1 Results 2025 Highlights Net profit falls 4 YoY revenue growth at 11 YoY margins improve - Min...
+3. Hindustan Aeronautics Q1 PAT slides 4 YoY to Rs 1,384 cr - Business Standard...
+4. HAL Motilal Oswal sees 32 upside on Tejas, 2 other Make-In-India initiatives  Whats next for investo...
+5. Hindustan Aeronautics consolidated net profit declines 3.71 in the June 2025 quarter - Business Stan...
+
+IRRELEVANT NEWS SAMPLES:
+1. 6.	Exchange does not warrant that the information will be uninterrupted or free of any error, omissi...

@@ -1,0 +1,20 @@
+NEWS ANALYSIS SUMMARY FOR TITAN.NS
+==================================================
+Timestamp: 20250817_163048
+Total news scraped: 17
+Relevant news found: 7
+Relevance rate: 41.2%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 15 articles
+  Financial Express: 2 articles
+
+RELEVANT NEWS SAMPLES:
+1. Titan Company Limited - AnalystsInstitutional Investor MeetCon. Call Updates - Business Standard...
+2. When gold slips from crown to a likely millstone for Titan Company - Business Standard...
+3. Stocks to buy for short term From Titan to HCL Tech Jigar Patel of Anand Rathi recommends 3 shares -...
+4. Is this small-cap the Next Titan? - financialexpress.com...
+5. Titan Company Share Price Highlights Titan Company Stock Price History - The Economic Times...
+
+IRRELEVANT NEWS SAMPLES:
+1. Kalpataru Projects International - Max Financial, Titan among 8 stocks showing RSI Trending Up on Au...

@@ -1,0 +1,13 @@
+Date,Symbol,Stock_Name,Headline,Impact,Source,URL,News_Type,Priority,Verified,Notes
+2025-08-17,HDFCBANK.NS,HDFCBANK,HDFCBANK reports Q3 FY25 results,Positive/Negative,Manual,https://example.com/news-url,Earnings/Results,High/Medium/Low,Yes/No,Replace with actual earnings/results news
+2025-08-10,HDFCBANK.NS,HDFCBANK,HDFCBANK announces dividend/bonus,Positive,Manual,https://example.com/news-url,Corporate Action,High/Medium/Low,Yes/No,Replace with actual corporate action news
+2025-08-03,HDFCBANK.NS,HDFCBANK,HDFCBANK receives regulatory approval,Positive/Neutral,Manual,https://example.com/news-url,Regulatory,High/Medium/Low,Yes/No,Replace with actual regulatory news
+2025-07-27,HDFCBANK.NS,HDFCBANK,HDFCBANK stock hits 52-week high/low,Positive/Negative,Manual,https://example.com/news-url,Market News,High/Medium/Low,Yes/No,Replace with actual market news news
+2025-08-17,TCS.NS,TCS,TCS reports Q3 FY25 results,Positive/Negative,Manual,https://example.com/news-url,Earnings/Results,High/Medium/Low,Yes/No,Replace with actual earnings/results news
+2025-08-10,TCS.NS,TCS,TCS announces dividend/bonus,Positive,Manual,https://example.com/news-url,Corporate Action,High/Medium/Low,Yes/No,Replace with actual corporate action news
+2025-08-03,TCS.NS,TCS,TCS receives regulatory approval,Positive/Neutral,Manual,https://example.com/news-url,Regulatory,High/Medium/Low,Yes/No,Replace with actual regulatory news
+2025-07-27,TCS.NS,TCS,TCS stock hits 52-week high/low,Positive/Negative,Manual,https://example.com/news-url,Market News,High/Medium/Low,Yes/No,Replace with actual market news news
+2025-08-17,RELIANCE.NS,RELIANCE,RELIANCE reports Q3 FY25 results,Positive/Negative,Manual,https://example.com/news-url,Earnings/Results,High/Medium/Low,Yes/No,Replace with actual earnings/results news
+2025-08-10,RELIANCE.NS,RELIANCE,RELIANCE announces dividend/bonus,Positive,Manual,https://example.com/news-url,Corporate Action,High/Medium/Low,Yes/No,Replace with actual corporate action news
+2025-08-03,RELIANCE.NS,RELIANCE,RELIANCE receives regulatory approval,Positive/Neutral,Manual,https://example.com/news-url,Regulatory,High/Medium/Low,Yes/No,Replace with actual regulatory news
+2025-07-27,RELIANCE.NS,RELIANCE,RELIANCE stock hits 52-week high/low,Positive/Negative,Manual,https://example.com/news-url,Market News,High/Medium/Low,Yes/No,Replace with actual market news news

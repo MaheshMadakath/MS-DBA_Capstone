@@ -1,0 +1,19 @@
+NEWS ANALYSIS SUMMARY FOR ICICIBANK.NS
+==================================================
+Timestamp: 20250817_154810
+Total news scraped: 53
+Relevant news found: 33
+Relevance rate: 62.3%
+
+SOURCE BREAKDOWN:
+  GoogleNewsRSS: 52 articles
+  LiveMint: 1 articles
+
+RELEVANT NEWS SAMPLES:
+1. Stocks to watch Vodafone Idea, IOC, ICICI Bank, Infosys among shares in focus today - Mint...
+2. Stocks to watch Tata Motors, Bharti Airtel, Voltas, ICICI Bank among shares in focus today - Mint...
+3. Stocks to Watch today, Aug 14 JSW Cement, BPCL, Infosys, ICICI Bank, ABFRL - Business Standard...
+4. ICICI Bank Share Price Live Updates ICICI Banks Recent Trading Activity - The Economic Times...
+5. ICICI Bank revises minimum account balance to 15,000 from 50,000 - Business Standard...
+
+IRRELEVANT NEWS SAMPLES:
