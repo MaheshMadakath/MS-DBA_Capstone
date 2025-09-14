@@ -1,0 +1,13 @@
+{
+  "hypotheses": {
+    "H0": "Hybrid models \u2248 individual",
+    "H1": "Hybrid > individual"
+  },
+  "tests": [
+    {
+      "comparison": "hybrid_vs_sentiment",
+      "metric": "accuracy",
+      "t": 7.865568171768405,
+      "p": 1.9455457981118645e-07,
+      "effect_d": 2.621856057256135,
+      "supports_h1": 

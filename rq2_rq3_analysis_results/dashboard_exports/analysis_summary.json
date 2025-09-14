@@ -1,0 +1,24 @@
+{
+  "total_evaluations": 168,
+  "total_features_analyzed": 56,
+  "total_securities": 26,
+  "analysis_period": {
+    "start": "2025-02-01T00:00:00",
+    "end": "2025-08-14T00:00:00"
+  },
+  "rq2_conclusion": "Evidence against H1: Individual models may perform as well as or better than hybrid models",
+  "rq3_conclusion": "Strong support for H1: Significant variation in feature importance with identifiable dominant KPIs",
+  "best_bundle": "technical_volume",
+  "top_features": [
+    "BB_Width",
+    "ensemble_score_std",
+    "OBV",
+    "ensemble_score_mean",
+    "SMA_Ratio_5_20",
+    "SMA_Ratio_20_50",
+    "ATR_Normalized",
+    "MACD_Histogram",
+    "PRICE_POSITION",
+    "Close_Position"
+  ]
+}

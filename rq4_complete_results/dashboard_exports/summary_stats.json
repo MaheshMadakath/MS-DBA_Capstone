@@ -1,0 +1,101 @@
+{
+  "total_days": 134,
+  "avg_daily_return": 0.00047075898626859825,
+  "return_volatility": 0.00862622296865878,
+  "explained_variance": 0.6971113750768769,
+  "sector_stats": {
+    "NIFTYBANK": {
+      "avg_contribution": 0.00032277776555110905,
+      "contribution_volatility": 0.00305039799747738,
+      "positive_days": 68,
+      "negative_days": 65,
+      "max_positive_contribution": 0.011673795718836977,
+      "max_negative_contribution": -0.011162715741116484,
+      "total_absolute_contribution": 0.30224761873133404
+    },
+    "NIFTYIT": {
+      "avg_contribution": -0.00024275290940427768,
+      "contribution_volatility": 0.0024887814894796203,
+      "positive_days": 64,
+      "negative_days": 69,
+      "max_positive_contribution": 0.012052391158330145,
+      "max_negative_contribution": -0.007571623465211457,
+      "total_absolute_contribution": 0.23656135972180942
+    },
+    "NIFTYENERGY": {
+      "avg_contribution": 4.320566164896959e-05,
+      "contribution_volatility": 0.001433546575429662,
+      "positive_days": 72,
+      "negative_days": 61,
+      "max_positive_contribution": 0.005027664000503939,
+      "max_negative_contribution": -0.004472851447267265,
+      "total_absolute_contribution": 0.14053760018061695
+    },
+    "NIFTYFMCG": {
+      "avg_contribution": -2.9597952077595193e-05,
+      "contribution_volatility": 0.0006806784209859011,
+      "positive_days": 62,
+      "negative_days": 71,
+      "max_positive_contribution": 0.0021115524958208276,
+      "max_negative_contribution": -0.002099542504440004,
+      "total_absolute_contribution": 0.07092276866795125
+    },
+    "NIFTYAUTO": {
+      "avg_contribution": 3.833818463257033e-05,
+      "contribution_volatility": 0.000748244919221489,
+      "positive_days": 71,
+      "negative_days": 62,
+      "max_positive_contribution": 0.0025085825165431118,
+      "max_negative_contribution": -0.0023531369300245865,
+      "total_absolute_contribution": 0.07298718424836795
+    },
+    "NIFTYDEFENSE": {
+      "avg_contribution": 5.7772250126205164e-05,
+      "contribution_volatility": 0.0005939276428086292,
+      "positive_days": 70,
+      "negative_days": 63,
+      "max_positive_contribution": 0.001680053377390862,
+      "max_negative_contribution": -0.0015162271396187465,
+      "total_absolute_contribution": 0.06182622585546611
+    },
+    "Other": {
+      "avg_contribution": 0.00027958934669028624,
+      "contribution_volatility": 0.0026545341954404005,
+      "positive_days": 68,
+      "negative_days": 65,
+      "max_positive_contribution": 0.007164969902931037,
+      "max_negative_contribution": -0.00889870465802053,
+      "total_absolute_contribution": 0.27666901769330987
+    }
+  },
+  "volatility_ranking": [
+    [
+      "NIFTYBANK",
+      0.00305039799747738
+    ],
+    [
+      "Other",
+      0.0026545341954404005
+    ],
+    [
+      "NIFTYIT",
+      0.0024887814894796203
+    ],
+    [
+      "NIFTYENERGY",
+      0.001433546575429662
+    ],
+    [
+      "NIFTYAUTO",
+      0.000748244919221489
+    ],
+    [
+      "NIFTYFMCG",
+      0.0006806784209859011
+    ],
+    [
+      "NIFTYDEFENSE",
+      0.0005939276428086292
+    ]
+  ]
+}

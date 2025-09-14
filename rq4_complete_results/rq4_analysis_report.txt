@@ -1,0 +1,59 @@
+============================================================
+RQ4: NIFTY SECTOR ATTRIBUTION ANALYSIS REPORT
+============================================================
+
+EXECUTIVE SUMMARY
+--------------------
+Analysis Period: 134 trading days
+Average Daily NIFTY Return: 0.047%
+Return Volatility: 0.863%
+Explained Variance by Sectors: 69.7%
+
+SECTOR CONTRIBUTION RANKINGS
+------------------------------
+1. NIFTYBANK:
+   Total Absolute Contribution: 0.3022
+   Average Daily Contribution: 0.032%
+   Contribution Volatility: 0.305%
+   Positive/Negative Days: 68/65
+
+2. NIFTYIT:
+   Total Absolute Contribution: 0.2366
+   Average Daily Contribution: -0.024%
+   Contribution Volatility: 0.249%
+   Positive/Negative Days: 64/69
+
+3. NIFTYENERGY:
+   Total Absolute Contribution: 0.1405
+   Average Daily Contribution: 0.004%
+   Contribution Volatility: 0.143%
+   Positive/Negative Days: 72/61
+
+4. NIFTYAUTO:
+   Total Absolute Contribution: 0.0730
+   Average Daily Contribution: 0.004%
+   Contribution Volatility: 0.075%
+   Positive/Negative Days: 71/62
+
+5. NIFTYFMCG:
+   Total Absolute Contribution: 0.0709
+   Average Daily Contribution: -0.003%
+   Contribution Volatility: 0.068%
+   Positive/Negative Days: 62/71
+
+EXTREME MOVEMENT DAYS ANALYSIS
+-----------------------------------
+Total Extreme Days Identified: 14
+
+Most Frequent Top Drivers:
+  NIFTYBANK: 10 times (71.4%)
+  NIFTYIT: 4 times (28.6%)
+
+SECTOR VOLATILITY RANKING
+-------------------------
+1. NIFTYBANK: 0.305% volatility
+3. NIFTYIT: 0.249% volatility
+4. NIFTYENERGY: 0.143% volatility
+5. NIFTYAUTO: 0.075% volatility
+
+============================================================

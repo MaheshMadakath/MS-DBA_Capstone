@@ -1,0 +1,362 @@
+{
+  "rq2_analysis": {
+    "research_question": "RQ2: Technical vs Sentiment Comparison - Which models perform better?",
+    "hypotheses": {
+      "H0": "Hybrid models \u2260 individual models (no systematic performance difference)",
+      "H1": "Hybrid > individual models (hybrid models systematically outperform individual models)"
+    },
+    "statistical_tests": [
+      {
+        "comparison": "hybrid_vs_sentiment_only",
+        "metric": "accuracy",
+        "test_result": {
+          "research_question": "RQ2",
+          "hypothesis_null": "Hybrid = Sentiment Only",
+          "hypothesis_alternative": "Hybrid > Sentiment Only",
+          "test_statistic": -0.5950011201822359,
+          "p_value": 0.5547585568569116,
+          "effect_size": -0.17176202845267138,
+          "effect_interpretation": "Negligible",
+          "significant": "False",
+          "conclusion": "Fail to reject H0",
+          "method": "Independent t-test",
+          "sample_size": 48
+        },
+        "hybrid_mean": 0.4379322268326417,
+        "sentiment_mean": 0.4458852005532503
+      },
+      {
+        "comparison": "hybrid_vs_sentiment_only",
+        "metric": "f1_score",
+        "test_result": {
+          "research_question": "RQ2",
+          "hypothesis_null": "Hybrid = Sentiment Only",
+          "hypothesis_alternative": "Hybrid > Sentiment Only",
+          "test_statistic": 4.789358346390975,
+          "p_value": 1.7759377952446274e-05,
+          "effect_size": 1.382568665267205,
+          "effect_interpretation": "Large",
+          "significant": "True",
+          "conclusion": "Support H1",
+          "method": "Independent t-test",
+          "sample_size": 48
+        },
+        "hybrid_mean": 0.5179880326599583,
+        "sentiment_mean": 0.4581591510510961
+      },
+      {
+        "comparison": "hybrid_vs_sentiment_only",
+        "metric": "roc_auc",
+        "test_result": {
+          "research_question": "RQ2",
+          "hypothesis_null": "Hybrid = Sentiment Only",
+          "hypothesis_alternative": "Hybrid > Sentiment Only",
+          "test_statistic": 5.20706762883132,
+          "p_value": 4.373777445474785e-06,
+          "effect_size": 1.5031509485971744,
+          "effect_interpretation": "Large",
+          "significant": "True",
+          "conclusion": "Support H1",
+          "method": "Independent t-test",
+          "sample_size": 48
+        },
+        "hybrid_mean": 0.5192249565970964,
+        "sentiment_mean": 0.4742781405552206
+      },
+      {
+        "comparison": "hybrid_vs_technical_only",
+        "metric": "accuracy",
+        "test_result": {
+          "research_question": "RQ2",
+          "hypothesis_null": "Hybrid = Technical Only",
+          "hypothesis_alternative": "Hybrid > Technical Only",
+          "test_statistic": -0.06685399109616981,
+          "p_value": 0.9469876742726058,
+          "effect_size": -0.01929908487788724,
+          "effect_interpretation": "Negligible",
+          "significant": "False",
+          "conclusion": "Fail to reject H0",
+          "method": "Independent t-test",
+          "sample_size": 48
+        },
+        "hybrid_mean": 0.4379322268326417,
+        "technical_mean": 0.43879668049792525
+      },
+      {
+        "comparison": "hybrid_vs_technical_only",
+        "metric": "f1_score",
+        "test_result": {
+          "research_question": "RQ2",
+          "hypothesis_null": "Hybrid = Technical Only",
+          "hypothesis_alternative": "Hybrid > Technical Only",
+          "test_statistic": -0.1149469250192989,
+          "p_value": 0.9089874867514111,
+          "effect_size": -0.03318231905120597,
+          "effect_interpretation": "Negligible",
+          "significant": "False",
+          "conclusion": "Fail to reject H0",
+          "method": "Independent t-test",
+          "sample_size": 48
+        },
+        "hybrid_mean": 0.5179880326599583,
+        "technical_mean": 0.519180679654983
+      },
+      {
+        "comparison": "hybrid_vs_technical_only",
+        "metric": "roc_auc",
+        "test_result": {
+          "research_question": "RQ2",
+          "hypothesis_null": "Hybrid = Technical Only",
+          "hypothesis_alternative": "Hybrid > Technical Only",
+          "test_statistic": -0.26673562417282565,
+          "p_value": 0.7908648601037251,
+          "effect_size": -0.07699994220932187,
+          "effect_interpretation": "Negligible",
+          "significant": "False",
+          "conclusion": "Fail to reject H0",
+          "method": "Independent t-test",
+          "sample_size": 48
+        },
+        "hybrid_mean": 0.5192249565970964,
+        "technical_mean": 0.5210653685344537
+      },
+      {
+        "comparison": "sentiment_vs_technical",
+        "metric": "accuracy",
+        "test_result": {
+          "research_question": "RQ2_Exploratory",
+          "hypothesis_null": "Sentiment = Technical",
+          "hypothesis_alternative": "Sentiment \u2260 Technical",
+          "test_statistic": 0.5323504311409125,
+          "p_value": 0.5970454860480592,
+          "effect_size": 0.1536763323612096,
+          "effect_interpretation": "Negligible",
+          "significant": "False",
+          "conclusion": "No significant difference",
+          "method": "Independent t-test",
+          "sample_size": 48
+        },
+        "sentiment_mean": 0.4458852005532503,
+        "technical_mean": 0.43879668049792525
+      },
+      {
+        "comparison": "sentiment_vs_technical",
+        "metric": "f1_score",
+        "test_result": {
+          "research_question": "RQ2_Exploratory",
+          "hypothesis_null": "Sentiment = Technical",
+          "hypothesis_alternative": "Sentiment \u2260 Technical",
+          "test_statistic": -4.426681911597048,
+          "p_value": 5.843795985981073e-05,
+          "effect_size": -1.2778729966387015,
+          "effect_interpretation": "Large",
+          "significant": "True",
+          "conclusion": "Significant difference",
+          "method": "Independent t-test",
+          "sample_size": 48
+        },
+        "sentiment_mean": 0.4581591510510961,
+        "technical_mean": 0.519180679654983
+      },
+      {
+        "comparison": "sentiment_vs_technical",
+        "metric": "roc_auc",
+        "test_result": {
+          "research_question": "RQ2_Exploratory",
+          "hypothesis_null": "Sentiment = Technical",
+          "hypothesis_alternative": "Sentiment \u2260 Technical",
+          "test_statistic": -5.241075442577736,
+          "p_value": 3.897873191114872e-06,
+          "effect_size": -1.5129681588076964,
+          "effect_interpretation": "Large",
+          "significant": "True",
+          "conclusion": "Significant difference",
+          "method": "Independent t-test",
+          "sample_size": 48
+        },
+        "sentiment_mean": 0.4742781405552206,
+        "technical_mean": 0.5210653685344537
+      }
+    ],
+    "summary": {
+      "total_tests_performed": 9,
+      "significant_tests": 4,
+      "h1_support_tests": 2,
+      "total_h1_tests": 6,
+      "h1_support_rate": 0.3333333333333333,
+      "overall_conclusion": "Evidence against H1: Individual models may perform as well as or better than hybrid models",
+      "bundle_rankings": {
+        "sentiment_only": {
+          "accuracy": "[0.50622407 0.50622407 0.50207469 0.46473029 0.49377593 0.48547718\n 0.43983402 0.49792531 0.39004149 0.38589212 0.41908714 0.42323651\n 0.42323651 0.42323651 0.39004149 0.39419087 0.406639   0.41908714\n 0.46473029 0.53526971 0.48962656 0.44813278 0.43153527 0.36099585]",
+          "f1_score": "[0.30409357 0.31213873 0.46428571 0.51685393 0.47863248 0.40952381\n 0.47876448 0.53281853 0.44106464 0.44360902 0.5        0.48327138\n 0.45914397 0.45490196 0.46545455 0.50675676 0.46037736 0.47368421\n 0.4691358  0.49090909 0.42790698 0.47843137 0.47509579 0.46896552]",
+          "roc_auc": "[0.45532574 0.45511468 0.51484452 0.49254256 0.52982975 0.53531729\n 0.47291403 0.47762769 0.43404635 0.43538324 0.46412656 0.47103387\n 0.44726679 0.52502971 0.45239156 0.43048128 0.44463335 0.43428445\n 0.50657895 0.5252809  0.50206978 0.4747191  0.48935541 0.41247782]",
+          "mean_accuracy": 0.4458852005532503,
+          "mean_f1": 0.4581591510510961,
+          "mean_auc": 0.4742781405552206,
+          "count": 24
+        },
+        "technical_only": {
+          "accuracy": "[0.49792531 0.46887967 0.41908714 0.4439834  0.45643154 0.49792531\n 0.51037344 0.46058091 0.46058091 0.45228216 0.36929461 0.36514523\n 0.35684647 0.43568465 0.38174274 0.38589212 0.46473029 0.48962656\n 0.38174274 0.45643154 0.43153527 0.46887967 0.4439834  0.43153527]",
+          "f1_score": "[0.58983051 0.57615894 0.57055215 0.51094891 0.5467128  0.46696035\n 0.54961832 0.59119497 0.53900709 0.51470588 0.53658537 0.51428571\n 0.51713396 0.48091603 0.52396166 0.51633987 0.44155844 0.45814978\n 0.50825083 0.50566038 0.51929825 0.44827586 0.49242424 0.54180602]",
+          "roc_auc": "[0.54087519 0.54087519 0.54340791 0.47298438 0.50401013 0.48740678\n 0.52244266 0.53925707 0.54426619 0.55295603 0.52072193 0.50259952\n 0.50831848 0.50141117 0.50594177 0.53721034 0.52284151 0.52993791\n 0.52298936 0.53873448 0.54863986 0.48625074 0.47183619 0.55965405]",
+          "mean_accuracy": 0.43879668049792525,
+          "mean_f1": 0.519180679654983,
+          "mean_auc": 0.5210653685344537,
+          "count": 24
+        },
+        "hybrid": {
+          "accuracy": "[0.51037344 0.48547718 0.43153527 0.43153527 0.46887967 0.49377593\n 0.47302905 0.46058091 0.42738589 0.41908714 0.36099585 0.42323651\n 0.36929461 0.38589212 0.38174274 0.38589212 0.48962656 0.48962656\n 0.36514523 0.43568465 0.4439834  0.47717842 0.46887967 0.43153527]",
+          "f1_score": "[0.53174603 0.53731343 0.57846154 0.51590106 0.52941176 0.48739496\n 0.50583658 0.59119497 0.52083333 0.52054795 0.5304878  0.52559727\n 0.52795031 0.50993377 0.52698413 0.51633987 0.45814978 0.4628821\n 0.50803859 0.50724638 0.51798561 0.48360656 0.49606299 0.54180602]",
+          "roc_auc": "[0.52152807 0.53046292 0.52912621 0.47875334 0.52237231 0.47572816\n 0.51435205 0.53925707 0.49717766 0.50371361 0.49301842 0.53290255\n 0.47422757 0.52005348 0.53308824 0.53721034 0.51914548 0.51419279\n 0.51825843 0.53296866 0.55477528 0.5252809  0.53415139 0.55965405]",
+          "mean_accuracy": 0.4379322268326417,
+          "mean_f1": 0.5179880326599583,
+          "mean_auc": 0.5192249565970964,
+          "count": 24
+        },
+        "sentiment_core": {
+          "accuracy": "[0.4813278  0.46887967 0.50207469 0.47717842 0.48547718 0.5186722\n 0.48962656 0.46473029 0.39419087 0.41078838 0.41908714 0.4439834\n 0.43568465 0.40248963 0.40248963 0.38589212 0.406639   0.38589212\n 0.4439834  0.45228216 0.4813278  0.42323651 0.4439834  0.36929461]",
+          "f1_score": "[0.26900585 0.23809524 0.44954128 0.45689655 0.48333333 0.47272727\n 0.50202429 0.41628959 0.4296875  0.46616541 0.453125   0.44166667\n 0.456      0.45454545 0.44615385 0.5        0.45210728 0.45985401\n 0.45967742 0.46341463 0.46351931 0.49084249 0.48062016 0.48648649]",
+          "roc_auc": "[0.44554664 0.44470241 0.51048262 0.49598987 0.51262839 0.51611088\n 0.4878289  0.4577881  0.42275698 0.42765894 0.4393568  0.46672608\n 0.45807338 0.54879679 0.42639632 0.43835413 0.47627144 0.4643702\n 0.52535482 0.49367978 0.52967918 0.48281342 0.47050562 0.42763158]",
+          "mean_accuracy": 0.4412171507607192,
+          "mean_f1": 0.44549079528585384,
+          "mean_auc": 0.47372930300554345,
+          "count": 24
+        },
+        "technical_trend": {
+          "accuracy": "[0.46887967 0.48962656 0.49792531 0.48547718 0.48962656 0.5186722\n 0.50622407 0.58091286 0.36514523 0.37344398 0.36514523 0.47717842\n 0.36514523 0.36099585 0.406639   0.65145228 0.42323651 0.41493776\n 0.43153527 0.46887967 0.49792531 0.41493776 0.41078838 0.65145228]",
+          "f1_score": "[0.58709677 0.59672131 0.56       0.47457627 0.55272727 0.44230769\n 0.4978903  0.2406015  0.53495441 0.5382263  0.53495441 0.475\n 0.53211009 0.52173913 0.54313099 0.20754717 0.55591054 0.55238095\n 0.50541516 0.43859649 0.49372385 0.48351648 0.47794118 0.27586207]",
+          "roc_auc": "[0.54748839 0.54136767 0.51044745 0.47952723 0.50847756 0.50376389\n 0.49486422 0.4966934  0.53290255 0.53193702 0.5493167  0.51645128\n 0.51429739 0.45937314 0.52120469 0.58359329 0.58463927 0.60060615\n 0.52613099 0.48536369 0.496267   0.50332643 0.47479302 0.58452839]",
+          "mean_accuracy": 0.4631742738589211,
+          "mean_f1": 0.4842887643840286,
+          "mean_auc": 0.5228066997572878,
+          "count": 24
+        },
+        "technical_momentum": {
+          "accuracy": "[0.43983402 0.43983402 0.46058091 0.51037344 0.47717842 0.49377593\n 0.42323651 0.43568465 0.38589212 0.39834025 0.38174274 0.40248963\n 0.39004149 0.45228216 0.45643154 0.4439834  0.44813278 0.44813278\n 0.40248963 0.41908714 0.40248963 0.46887967 0.44813278 0.43153527]",
+          "f1_score": "[0.60410557 0.60410557 0.55782313 0.51239669 0.52985075 0.52713178\n 0.56965944 0.6        0.51315789 0.51505017 0.54153846 0.54140127\n 0.54205607 0.45901639 0.45188285 0.45528455 0.44813278 0.44813278\n 0.50344828 0.5        0.51677852 0.37864078 0.35748792 0.44534413]",
+          "roc_auc": "[0.55480512 0.5621922  0.49110032 0.48705502 0.51906571 0.52441255\n 0.48311524 0.50984944 0.52525253 0.52153892 0.48566548 0.48544266\n 0.49004753 0.51537433 0.49153298 0.49049317 0.46710526 0.46799231\n 0.47009905 0.48554849 0.50340035 0.46111768 0.45306032 0.48233294]",
+          "mean_accuracy": 0.4358575380359612,
+          "mean_f1": 0.5051010746335393,
+          "mean_auc": 0.49698331749444175,
+          "count": 24
+        },
+        "technical_volume": {
+          "accuracy": "[0.47717842 0.49792531 0.46473029 0.48547718 0.48962656 0.51452282\n 0.42323651 0.46058091 0.42738589 0.43983402 0.41908714 0.45643154\n 0.42738589 0.46058091 0.40248963 0.38174274 0.47302905 0.46473029\n 0.42323651 0.40248963 0.43153527 0.52282158 0.48962656 0.42738589]",
+          "f1_score": "[0.54014599 0.55018587 0.585209   0.58389262 0.57439446 0.54117647\n 0.49084249 0.59119497 0.5        0.50549451 0.50704225 0.49027237\n 0.5        0.48       0.48571429 0.51465798 0.54151625 0.53763441\n 0.49819495 0.47058824 0.49070632 0.51476793 0.47659574 0.54      ]",
+          "roc_auc": "[0.54938793 0.54516674 0.54650345 0.49873364 0.53855354 0.47646686\n 0.45824539 0.53939778 0.48314023 0.47370766 0.52956031 0.48648247\n 0.49977718 0.48611111 0.471071   0.53431373 0.54050857 0.53444707\n 0.52335896 0.45394737 0.48654642 0.52483737 0.51759314 0.55410999]",
+          "mean_accuracy": 0.45262793914246197,
+          "mean_f1": 0.521259462673176,
+          "mean_auc": 0.5104986636453889,
+          "count": 24
+        }
+      }
+    }
+  },
+  "rq3_analysis": {
+    "research_question": "RQ3: Feature Importance Analysis - Which KPIs matter most?",
+    "hypotheses": {
+      "H0": "No KPI dominates (all features have equal importance)",
+      "H1": "Some KPIs stronger (significant variation in feature importance)"
+    },
+    "statistical_tests": [
+      {
+        "test_type": "importance_variance",
+        "test_result": {
+          "research_question": "RQ3",
+          "hypothesis_null": "Features have uniform importance",
+          "hypothesis_alternative": "Features have varying importance",
+          "test_statistic": 396.452165914894,
+          "p_value": 3.379997328849837e-53,
+          "effect_size": 1.3506106253943584,
+          "effect_interpretation": "High",
+          "significant": "True",
+          "conclusion": "Support H1",
+          "method": "Chi-square goodness of fit",
+          "sample_size": 56
+        },
+        "coefficient_of_variation": 1.3506106253943584
+      },
+      {
+        "test_type": "method_consistency",
+        "test_result": {
+          "research_question": "RQ3",
+          "hypothesis_null": "Feature selection methods show random agreement (J \u2264 0.1)",
+          "hypothesis_alternative": "Feature selection methods show systematic agreement (J > 0.1)",
+          "test_statistic": 0.23779809228725637,
+          "p_value": 0.05,
+          "effect_size": 0.23779809228725637,
+          "effect_interpretation": "Medium",
+          "significant": "True",
+          "conclusion": "Systematic method agreement",
+          "method": "Jaccard similarity analysis",
+          "sample_size": 66
+        },
+        "jaccard_similarity": 0.23779809228725637
+      },
+      {
+        "test_type": "dominant_features",
+        "test_result": {
+          "research_question": "RQ3",
+          "hypothesis_null": "Top features not significantly more important",
+          "hypothesis_alternative": "Top features are significantly more important",
+          "test_statistic": 441.0,
+          "p_value": 3.346051511281436e-06,
+          "effect_size": -0.9173913043478261,
+          "effect_interpretation": "Large",
+          "significant": "True",
+          "conclusion": "Dominant features identified",
+          "method": "Mann-Whitney U test",
+          "sample_size": 56
+        },
+        "top_feature_names": [
+          "BB_Width",
+          "ensemble_score_std",
+          "OBV",
+          "ensemble_score_mean",
+          "SMA_Ratio_5_20",
+          "SMA_Ratio_20_50",
+          "ATR_Normalized",
+          "MACD_Histogram",
+          "PRICE_POSITION",
+          "Close_Position"
+        ]
+      }
+    ],
+    "summary": {
+      "total_features_analyzed": 56,
+      "total_tests_performed": 3,
+      "significant_tests": 3,
+      "top_10_features": [
+        "BB_Width",
+        "ensemble_score_std",
+        "OBV",
+        "ensemble_score_mean",
+        "SMA_Ratio_5_20",
+        "SMA_Ratio_20_50",
+        "ATR_Normalized",
+        "MACD_Histogram",
+        "PRICE_POSITION",
+        "Close_Position"
+      ],
+      "most_important_feature": "BB_Width",
+      "importance_variation": "High",
+      "overall_conclusion": "Strong support for H1: Significant variation in feature importance with identifiable dominant KPIs"
+    }
+  },
+  "methodology": {
+    "significance_level": 0.05,
+    "multiple_testing_correction": "bonferroni",
+    "effect_size_measure": "Cohen's d for mean differences, Coefficient of Variation for variance tests"
+  },
+  "overall_summary": {
+    "rq2_conclusion": "Evidence against H1: Individual models may perform as well as or better than hybrid models",
+    "rq3_conclusion": "Strong support for H1: Significant variation in feature importance with identifiable dominant KPIs",
+    "research_implications": [
+      "Single-domain feature models may be sufficient for prediction tasks",
+      "Model complexity reduction through domain-specific features is supported",
+      "Feature selection and engineering should focus on identified dominant KPIs",
+      "Risk management frameworks can prioritize high-importance indicators",
+      "The BB_Width metric emerges as the most predictive indicator"
+    ]
+  }
+}

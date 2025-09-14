@@ -1,0 +1,62 @@
+{
+  "highlights": {
+    "highest_vol_sector": "NIFTYDEFENSE",
+    "lowest_vol_sector": "NIFTYFMCG",
+    "most_correlated_pair": [
+      "NIFTY50",
+      "NIFTYBANK",
+      0.8796078089407395
+    ],
+    "least_correlated_pair": [
+      "NIFTYIT",
+      "NIFTYDEFENSE",
+      0.2304829544066524
+    ]
+  },
+  "results": {
+    "top5_up": [
+      {
+        "date": "2025-05-12 00:00:00",
+        "daily_return": 0.038183105631456105
+      },
+      {
+        "date": "2025-04-15 00:00:00",
+        "daily_return": 0.021902398531663314
+      },
+      {
+        "date": "2025-04-11 00:00:00",
+        "daily_return": 0.0191703703042303
+      },
+      {
+        "date": "2025-04-17 00:00:00",
+        "daily_return": 0.017683426347857356
+      },
+      {
+        "date": "2025-04-08 00:00:00",
+        "daily_return": 0.0168873186051548
+      }
+    ],
+    "top5_down": [
+      {
+        "date": "2025-04-07 00:00:00",
+        "daily_return": -0.03243256223135693
+      },
+      {
+        "date": "2025-02-28 00:00:00",
+        "daily_return": -0.01864489100711675
+      },
+      {
+        "date": "2025-04-01 00:00:00",
+        "daily_return": -0.015036555006834651
+      },
+      {
+        "date": "2025-04-04 00:00:00",
+        "daily_return": -0.014866602724289302
+      },
+      {
+        "date": "2025-05-13 00:00:00",
+        "daily_return": -0.013895854313191403
+      }
+    ]
+  }
+}

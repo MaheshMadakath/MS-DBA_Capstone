@@ -1,0 +1,8 @@
+sector,coverage_ratio_vs_nifty50,missing_vs_nifty50_count,extra_vs_nifty50_count
+NIFTY50,1.0,0,0
+NIFTYBANK,1.0,0,0
+NIFTYIT,1.0,0,0
+NIFTYAUTO,1.0,0,0
+NIFTYDEFENSE,1.0,0,0
+NIFTYENERGY,1.0,0,0
+NIFTYFMCG,1.0,0,0
